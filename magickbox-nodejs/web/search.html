@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Сайт магазина Vanil.ISS</title>
+
+    <link rel="stylesheet" type="text/css" media="screen and (min-device-width: 1px) and (max-device-width: 639px)"
+          href="css/mobile/mobile.css" />
+
+    <link rel="stylesheet" type="text/css" media="screen and (min-device-width: 640px)"
+          href="css/screen/main.css" />
+    <link rel="stylesheet" type="text/css" media="screen and (min-device-width: 640px)"
+          href="css/screen/search_page.css" />
+    <link rel="stylesheet" type="text/css" media="screen and (min-device-width: 640px)"
+          href="css/screen/account_area.css" />
+    <link rel="stylesheet" type="text/css" media="screen and (min-device-width: 640px)"
+          href="css/screen/basket_icon.css" />
+
+    <link rel="stylesheet" type="text/css" media="print"
+          href="css/print/print.css" />
+    <!--<link rel="shortcut icon" href="">-->
+    <!--<script src="javascript/jquery-3.2.1.min.js"></script>-->
+    <script src="javascript/base.js"></script>
+    <script src="javascript/shop_item.js"></script>
+    <script src="javascript/local_storage.js"></script>
+    <script src="javascript/search_page.js"></script>
+    <script src="javascript/account_block.js"></script>
+
+    <meta name="author" content="MrKotyk">
+    <meta name="description" content="Сюда вписывается краткое описание страницы">
+    <meta name="keywords" content="список, ключевых, слов">
+    <meta name="robots" content="index,all">
+</head>
+
+
+<body>
+
+<div id="wrapper">
+
+    <div id="header">
+
+        <div id="logo-block"> <img src="img/logo11.png" width="742" height="508"> </div> <!--logo_block-->
+
+        <div id="header-panel-small">
+            <div id="vanil-button" class="header-panel-button-small">Vanil.ISS</div>
+            <div class="header-panel-button-small">PrettyCool</div>
+            <div class="header-panel-button-small">Mech VR</div>
+            <div class="header-panel-button-small">ACM</div>
+        </div><!--header-panel-small-->
+
+        <div id="header-panel">
+            <div class="header-panel-button"><a href="index.html">Магазин</a></div>
+            <div class="header-panel-button"><a href="news.html">Новости</a></div>
+            <div class="header-panel-button"><a href="materials.html">Материалы</a></div>
+            <div class="header-panel-button"><a href="about.html">О нас</a></div>
+
+            <div id="account-area">
+                <div id="account-block">
+                    <div class="account-block-button account-out-button"><a href="login.html">Войти</a></div>
+                    <div class="account-block-button account-out-button"><a href="signup.html">Зарегистрироваться</a></div>
+                    <div class="account-block-button account-in-button" id="account-block-profile-button"><a href="">Профиль</a></div>
+                    <div class="account-block-button account-in-button" id="account-block-exit-button"><a href="">Выход</a></div>
+                </div>
+
+                <div id="account-block-login"></div>
+                <img id="account-icon" src="img/account_icon.png">
+            </div>
+
+        </div><!--header-panel-->
+
+
+    </div><!--header-->
+
+
+
+    <div id="shop-main">
+
+        <div id="left-sidebar">
+
+            <div id="left-sidebar-categories">
+            </div>
+
+            <div id="left-sidebar-item-of-month">
+                <div class="item-text">Товар месяца!</div>
+                <div class="item-img"><img src="img/items/10.png"></div>
+                <div class="item-text">Непонятный символ на бумажке- новый тренд какого-то там года.</div>
+                <div class="item-price">100$</div>
+            </div>
+
+        </div><!--left-sidebar-->
+
+        <form id="search-page-form" action="javascript:void(0);" onsubmit="return false;" method="post">
+
+            <select id="select-category" name="selectcategory" size="6" multiple>
+                <option disabled>Категория товара</option>
+                <option selected value="all">Все</option>
+                <option value="weapon">Игровое оружие</option>
+                <option value="tool">Инструменты</option>
+                <option value="clothes">Одежда</option>
+                <option value="food">Еда</option>
+                <option value="potion">Бутыли</option>
+            </select>
+
+            <input type="text" id="search-name" name="searchname" placeholder="Название...">
+
+            <input type="number" id="search-start-cost" name="searchstartcost"
+                   placeholder="Минимальная цена">
+            <input type="number" id="search-end-cost" name="searchendcost"
+                   placeholder="Максимальная цена">
+
+            <input type="submit" value="Поиск">
+        </form>
+
+        <div id="items-content">
+        </div><!--items-content-->
+
+    </div><!--main-block-->
+
+    <div id="footer"> <br><br><br><br><br> </div><!--footer-->
+
+</div><!--wrapper-->
+
+<div id="basket-icon">
+    <div id="basket-icon-block">
+        <a id="basket-items-expand" href="basket.html"><- Развернуть</a>
+        <div id="basket-total-price">Total: $0</div>
+        <div id="basket-items"></div>
+    </div>
+
+
+    <img id="basket-icon-image" src="img/basket.png">
+    <div id="basket-items-count">0</div>
+
+</div>
+
+</body>
+
+
+</html>

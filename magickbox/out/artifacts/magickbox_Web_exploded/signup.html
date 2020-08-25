@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Log In</title>
+    <link rel="stylesheet" type="text/css" media="screen and (min-device-width: 640px)"
+          href="css/screen/secondary_page.css" />
+    <script src="javascript/base.js"></script>
+    <script src="javascript/local_storage.js"></script>
+    <script src="javascript/signup.js"></script>
+</head>
+<body>
+
+<div id="wrapper">
+    <h1>РЕГИСТРАЦИЯ</h1>
+    <div class="hr"></div>
+    <form id="main-form" action="javascript:void(0);"
+          onsubmit="submitRegistration(this); return false;" method="post">
+            <label for="login">Логин</label>
+            <input type="text" id="login" name="login" placeholder="Ваш логин...">
+
+            <label for="email">Почта</label>
+            <input type="text" id="email" name="email" placeholder="Ваша почта...">
+
+            <label for="password">Пароль</label>
+            <input type="password" id="password" name="password" placeholder="Введите надежный пароль...">
+
+            <label for="check-password">Повторить пароль</label>
+            <input type="password" id="check-password" name="check-password" placeholder="Введите пароль еще раз...">
+
+            <!--<label for="country">Страна</label>-->
+            <!--<select id="country" name="country">-->
+                <!--<option value="australia">Россия</option>-->
+                <!--<option value="canada">Америка</option>-->
+                <!--<option value="usa">Канада</option>-->
+            <!--</select>-->
+
+            <input id="submit-button" type="submit" value="Подтвердить">
+        </form>
+
+</div>
+
+</body>
+</html>

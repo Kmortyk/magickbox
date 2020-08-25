@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+
+    <link rel="stylesheet" type="text/css" media="screen and (min-device-width: 1px) and (max-device-width: 639px)"
+          href="css/mobile/mobile.css" />
+    <link rel="stylesheet" type="text/css" media="screen and (min-device-width: 1px) and (max-device-width: 639px)"
+          href="css/mobile/shop_item.css" />
+
+    <link rel="stylesheet" type="text/css" media="screen and (min-device-width: 640px)"
+          href="css/screen/main.css" />
+    <link rel="stylesheet" type="text/css" media="screen and (min-device-width: 640px)"
+          href="css/screen/shop_item.css" />
+
+    <link rel="stylesheet" type="text/css" media="print"
+          href="css/print/print.css" />
+    <link rel="stylesheet" type="text/css" media="print"
+          href="css/print/shop_item.css" />
+
+    <script src="javascript/base.js"></script>
+    <script src="javascript/local_storage.js"></script>
+    <script src="javascript/comments.js"></script>
+    <script src="javascript/shop_item_page.js"></script>
+</head>
+<body>
+
+    <div id="wrapper">
+
+        <div id="header">
+            <div id="logo-block"> <img src="img/logo11.png" width="742" height="508"> </div> <!--logo_block-->
+
+            <div id="header-panel-small">
+                <div id="vanil-button" class="header-panel-button-small">Vanil.ISS</div>
+                <div class="header-panel-button-small">PrettyCool</div>
+                <div class="header-panel-button-small">Mech VR</div>
+                <div class="header-panel-button-small">ACM</div>
+            </div><!--header-panel-small-->
+
+            <div id="header-panel">
+                <div class="header-panel-button"><a href="index.html">Магазин</a></div>
+                <div class="header-panel-button"><a href="news.html">Новости</a></div>
+                <div class="header-panel-button"><a href="materials.html">Материалы</a></div>
+                <div class="header-panel-button"><a href="about.html">О нас</a></div>
+            </div><!--header-panel-->
+        </div><!--header-->
+
+        <div id="shop-item-main">
+
+            <div id="shop-item-images">
+            </div><!--shop-item-images-->
+
+            <div id="shop-item-description">
+                <div id="shop-item-description-name">
+                </div>
+                <div id="shop-item-description-text">
+                </div>
+                <div id="shop-item-description-price">
+                </div>
+                <div id="shop-item-rate">
+                    <img id="rate-img" src="img/awful.png">
+                    <img class="rate-choose-img" src="img/awful.png">
+                    <img class="rate-choose-img" src="img/nice.png">
+                    <img class="rate-choose-img" src="img/good.png">
+                    <img class="rate-choose-img" src="img/awesome.png">
+                </div>
+            </div><!--shop-item-description-->
+
+        </div>
+
+        <div id="shop-item-comments-area">
+
+            <div id="shop-item-comments">
+            </div>
+
+            <form id="comment-form" action="javascript:void(0);" method="post" accept-charset="utf-8">
+                <label for="message"></label>
+                <textarea id="message" name="message" rows="10"></textarea>
+                <input type="submit" id="submit-commnet-button" value="Подтвердить">
+            </form>
+
+        </div><!--shop-item-comments-->
+
+        <div id="footer"><br/><br/><br/><br/><br/></div>
+    </div><!--wrapper-->
+
+</body>
+</html>

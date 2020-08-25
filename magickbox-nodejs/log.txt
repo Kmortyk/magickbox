@@ -1,0 +1,2820 @@
+Server running at http://127.0.0.1:8080/
+Request '/' routed.
+Start page handled.
+Request '/css/screen/main.css' routed.
+Request '/css/screen/account_area.css' routed.
+Request '/css/screen/basket_icon.css' routed.
+Request '/javascript/base.js' routed.
+File './web/css/screen/main.css' send.
+File './web/css/screen/account_area.css' send.
+Request '/javascript/shop_item.js' routed.
+File './web/css/screen/basket_icon.css' send.
+File './web/javascript/base.js' send.
+File './web/javascript/shop_item.js' send.
+Request '/javascript/local_storage.js' routed.
+File './web/javascript/local_storage.js' send.
+Request '/javascript/index.js' routed.
+Request '/javascript/account_block.js' routed.
+File './web/javascript/index.js' send.
+File './web/javascript/account_block.js' send.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+Request '/img/account_icon.png' routed.
+File './web/img/account_icon.png' send.
+Request '/img/items/10.png' routed.
+File './web/img/items/10.png' send.
+Request '/img/basket.png' routed.
+File './web/img/basket.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Request '/item' routed.
+Request '/item' routed.
+Item data send.
+Item data send.
+Request '/item' routed.
+Item data send.
+Request '/item' routed.
+Item data send.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Item data send.
+Item data send.
+Item data send.
+Item data send.
+Request '/img/items/1.jpg' routed.
+File './web/img/items/1.jpg' send.
+Request '/img/items/2.jpg' routed.
+File './web/img/items/2.jpg' send.
+Request '/img/items/3.png' routed.
+Request '/img/items/5.gif' routed.
+Request '/img/items/4.png' routed.
+Request '/img/items/6.png' routed.
+Request '/img/items/8.png' routed.
+Request '/img/items/7.jpg' routed.
+File './web/img/items/4.png' send.
+File './web/img/items/3.png' send.
+File './web/img/items/5.gif' send.
+File './web/img/items/7.jpg' send.
+File './web/img/items/8.png' send.
+File './web/img/items/6.png' send.
+Request '/item' routed.
+Request '/item' routed.
+Item data send.
+Item data send.
+Request '/item' routed.
+Item data send.
+Request '/item' routed.
+Request '/img/items/9.jpg' routed.
+File './web/img/items/9.jpg' send.
+Request '/img/items/buttonsmall.png' routed.
+File './web/img/items/buttonsmall.png' send.
+Request '/img/items/prohozhii.jpg' routed.
+File './web/img/items/prohozhii.jpg' send.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Item data send.
+Item data send.
+Request '/item' routed.
+Item data send.
+Item data send.
+Request '/item' routed.
+Request '/item' routed.
+Item data send.
+Item data send.
+Request '/item' routed.
+Item data send.
+Request '/item' routed.
+Item data send.
+Request '/item' routed.
+Request '/item' routed.
+Item data send.
+Request '/item' routed.
+Item data send.
+Item data send.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Item data send.
+Item data send.
+Request '/item' routed.
+Item data send.
+Item data send.
+Request '/item' routed.
+Request '/item' routed.
+Item data send.
+Request '/item' routed.
+Item data send.
+Item data send.
+Request '/item' routed.
+Item data send.
+Request '/item' routed.
+Request '/item' routed.
+Item data send.
+Item data send.
+Request '/item' routed.
+Item data send.
+Request '/item' routed.
+Server running at http://127.0.0.1:8080/
+Request '/' routed.
+Start page handled.
+Request '/css/screen/main.css' routed.
+Request '/css/screen/account_area.css' routed.
+Request '/javascript/base.js' routed.
+Request '/css/screen/basket_icon.css' routed.
+Request '/javascript/shop_item.js' routed.
+Request '/javascript/local_storage.js' routed.
+File './web/css/screen/main.css' send.
+File './web/css/screen/account_area.css' send.
+File './web/css/screen/basket_icon.css' send.
+File './web/javascript/base.js' send.
+File './web/javascript/shop_item.js' send.
+Request '/javascript/index.js' routed.
+File './web/javascript/local_storage.js' send.
+File './web/javascript/index.js' send.
+Request '/javascript/account_block.js' routed.
+File './web/javascript/account_block.js' send.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+Request '/img/account_icon.png' routed.
+File './web/img/account_icon.png' send.
+Request '/img/items/10.png' routed.
+File './web/img/items/10.png' send.
+Request '/img/basket.png' routed.
+File './web/img/basket.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Item data send.
+Item data send.
+Item data send.
+Request '/item' routed.
+Item data send.
+Item data send.
+Request '/item' routed.
+Item data send.
+Item data send.
+Item data send.
+Request '/img/items/1.jpg' routed.
+File './web/img/items/1.jpg' send.
+Request '/img/items/3.png' routed.
+File './web/img/items/3.png' send.
+Request '/img/items/2.jpg' routed.
+File './web/img/items/2.jpg' send.
+Request '/img/items/4.png' routed.
+File './web/img/items/4.png' send.
+Request '/img/items/6.png' routed.
+File './web/img/items/6.png' send.
+Request '/img/items/5.gif' routed.
+File './web/img/items/5.gif' send.
+Request '/img/items/7.jpg' routed.
+File './web/img/items/7.jpg' send.
+Request '/img/items/8.png' routed.
+File './web/img/items/8.png' send.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Item data send.
+Item data send.
+Item data send.
+Request '/item' routed.
+Request '/img/items/9.jpg' routed.
+File './web/img/items/9.jpg' send.
+Request '/img/items/buttonsmall.png' routed.
+File './web/img/items/buttonsmall.png' send.
+Request '/img/items/prohozhii.jpg' routed.
+File './web/img/items/prohozhii.jpg' send.
+Request '/' routed.
+Start page handled.
+Request '/css/screen/main.css' routed.
+File './web/css/screen/main.css' send.
+Request '/css/screen/account_area.css' routed.
+File './web/css/screen/account_area.css' send.
+Request '/css/screen/basket_icon.css' routed.
+File './web/css/screen/basket_icon.css' send.
+Request '/javascript/base.js' routed.
+File './web/javascript/base.js' send.
+Request '/javascript/shop_item.js' routed.
+File './web/javascript/shop_item.js' send.
+Request '/javascript/local_storage.js' routed.
+Request '/javascript/index.js' routed.
+Request '/javascript/account_block.js' routed.
+File './web/javascript/local_storage.js' send.
+File './web/javascript/index.js' send.
+File './web/javascript/account_block.js' send.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+Request '/img/account_icon.png' routed.
+File './web/img/account_icon.png' send.
+Request '/img/items/10.png' routed.
+File './web/img/items/10.png' send.
+Request '/img/basket.png' routed.
+File './web/img/basket.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Request '/item' routed.
+Item data send.
+Request '/item' routed.
+Item data send.
+Request '/item' routed.
+Item data send.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Item data send.
+Item data send.
+Item data send.
+Item data send.
+Request '/item' routed.
+Item data send.
+Request '/img/items/1.jpg' routed.
+File './web/img/items/1.jpg' send.
+Request '/img/items/2.jpg' routed.
+File './web/img/items/2.jpg' send.
+Request '/img/items/3.png' routed.
+File './web/img/items/3.png' send.
+Request '/img/items/4.png' routed.
+File './web/img/items/4.png' send.
+Request '/img/items/6.png' routed.
+File './web/img/items/6.png' send.
+Request '/img/items/5.gif' routed.
+File './web/img/items/5.gif' send.
+Request '/img/items/7.jpg' routed.
+File './web/img/items/7.jpg' send.
+Request '/img/items/8.png' routed.
+File './web/img/items/8.png' send.
+Request '/item' routed.
+Request '/item' routed.
+Item data send.
+Request '/item' routed.
+Item data send.
+Item data send.
+Request '/item' routed.
+Request '/img/items/9.jpg' routed.
+File './web/img/items/9.jpg' send.
+Request '/img/items/buttonsmall.png' routed.
+File './web/img/items/buttonsmall.png' send.
+Request '/img/items/prohozhii.jpg' routed.
+File './web/img/items/prohozhii.jpg' send.
+Request '/favicon.ico' routed.
+File './web/favicon.ico' send.
+Request '/img/remove_item.png' routed.
+File './web/img/remove_item.png' send.
+Request '/css/mobile/mobile.css' routed.
+Request '/css/screen/main.css' routed.
+Request '/css/screen/account_area.css' routed.
+File './web/css/mobile/mobile.css' send.
+File './web/css/screen/main.css' send.
+Request '/css/screen/basket_icon.css' routed.
+Request '/css/print/print.css' routed.
+File './web/css/screen/account_area.css' send.
+File './web/css/screen/basket_icon.css' send.
+File './web/css/print/print.css' send.
+Server running at http://127.0.0.1:8080/
+Request '/' routed.
+Start page handled.
+Request '/css/screen/main.css' routed.
+Request '/css/screen/account_area.css' routed.
+Request '/css/screen/basket_icon.css' routed.
+Request '/javascript/base.js' routed.
+Request '/javascript/shop_item.js' routed.
+Request '/javascript/local_storage.js' routed.
+File './web/css/screen/account_area.css' send.
+File './web/css/screen/basket_icon.css' send.
+File './web/css/screen/main.css' send.
+File './web/javascript/base.js' send.
+File './web/javascript/shop_item.js' send.
+File './web/javascript/local_storage.js' send.
+Request '/javascript/index.js' routed.
+Request '/javascript/account_block.js' routed.
+File './web/javascript/index.js' send.
+File './web/javascript/account_block.js' send.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+Request '/img/account_icon.png' routed.
+Request '/img/items/10.png' routed.
+Request '/img/basket.png' routed.
+File './web/img/account_icon.png' send.
+File './web/img/items/10.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/img/basket.png' send.
+Request '/css/print/print.css' routed.
+File './web/css/mobile/mobile.css' send.
+File './web/css/print/print.css' send.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Item data send.
+Item data send.
+Item data send.
+Item data send.
+Item data send.
+Item data send.
+Request '/item' routed.
+Request '/item' routed.
+Item data send.
+Item data send.
+Request '/img/items/1.jpg' routed.
+Request '/img/items/2.jpg' routed.
+Request '/img/items/3.png' routed.
+Request '/img/items/4.png' routed.
+File './web/img/items/1.jpg' send.
+File './web/img/items/3.png' send.
+File './web/img/items/2.jpg' send.
+File './web/img/items/4.png' send.
+Request '/img/items/5.gif' routed.
+Request '/img/items/6.png' routed.
+File './web/img/items/6.png' send.
+File './web/img/items/5.gif' send.
+Request '/img/items/8.png' routed.
+Request '/img/items/7.jpg' routed.
+File './web/img/items/8.png' send.
+File './web/img/items/7.jpg' send.
+Request '/css/mobile/mobile.css' routed.
+Request '/css/screen/main.css' routed.
+Request '/css/screen/basket_icon.css' routed.
+Request '/css/print/print.css' routed.
+Request '/css/screen/account_area.css' routed.
+File './web/css/mobile/mobile.css' send.
+File './web/css/screen/main.css' send.
+File './web/css/screen/basket_icon.css' send.
+File './web/css/screen/account_area.css' send.
+File './web/css/print/print.css' send.
+Server running at http://127.0.0.1:8080/
+Request '/' routed.
+Start page handled.
+Request '/css/screen/main.css' routed.
+File './web/css/screen/main.css' send.
+Request '/css/screen/account_area.css' routed.
+Request '/css/screen/basket_icon.css' routed.
+File './web/css/screen/account_area.css' send.
+Request '/javascript/base.js' routed.
+File './web/css/screen/basket_icon.css' send.
+File './web/javascript/base.js' send.
+Request '/javascript/shop_item.js' routed.
+File './web/javascript/shop_item.js' send.
+Request '/javascript/local_storage.js' routed.
+File './web/javascript/local_storage.js' send.
+Request '/javascript/index.js' routed.
+File './web/javascript/index.js' send.
+Request '/javascript/account_block.js' routed.
+File './web/javascript/account_block.js' send.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+Request '/img/account_icon.png' routed.
+File './web/img/account_icon.png' send.
+Request '/img/items/10.png' routed.
+File './web/img/items/10.png' send.
+Request '/img/basket.png' routed.
+File './web/img/basket.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Item data sended.
+Item data sended.
+Item data sended.
+Item data sended.
+Request '/item' routed.
+Item data sended.
+Request '/item' routed.
+Item data sended.
+Request '/img/items/1.jpg' routed.
+File './web/img/items/1.jpg' send.
+Request '/img/items/3.png' routed.
+File './web/img/items/3.png' send.
+Request '/img/items/4.png' routed.
+File './web/img/items/4.png' send.
+Request '/img/items/2.jpg' routed.
+Request '/img/items/5.gif' routed.
+Request '/img/items/7.jpg' routed.
+Request '/img/items/8.png' routed.
+Request '/img/items/6.png' routed.
+File './web/img/items/2.jpg' send.
+File './web/img/items/6.png' send.
+File './web/img/items/7.jpg' send.
+File './web/img/items/8.png' send.
+File './web/img/items/5.gif' send.
+Server running at http://127.0.0.1:8080/
+Request '/' routed.
+Start page handled.
+Request '/css/screen/main.css' routed.
+Request '/css/screen/basket_icon.css' routed.
+Request '/css/screen/account_area.css' routed.
+Request '/javascript/shop_item.js' routed.
+Request '/javascript/base.js' routed.
+File './web/css/screen/main.css' send.
+File './web/css/screen/basket_icon.css' send.
+File './web/css/screen/account_area.css' send.
+File './web/javascript/base.js' send.
+File './web/javascript/shop_item.js' send.
+Request '/javascript/local_storage.js' routed.
+File './web/javascript/local_storage.js' send.
+Request '/javascript/index.js' routed.
+File './web/javascript/index.js' send.
+Request '/javascript/account_block.js' routed.
+File './web/javascript/account_block.js' send.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+Request '/img/account_icon.png' routed.
+File './web/img/account_icon.png' send.
+Request '/img/items/10.png' routed.
+File './web/img/items/10.png' send.
+Request '/img/basket.png' routed.
+File './web/img/basket.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Item data sended.
+Item data sended.
+Item data sended.
+Request '/item' routed.
+Item data sended.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Request '/img/items/1.jpg' routed.
+File './web/img/items/1.jpg' send.
+Request '/img/items/3.png' routed.
+File './web/img/items/3.png' send.
+Request '/img/items/2.jpg' routed.
+File './web/img/items/2.jpg' send.
+Request '/img/items/4.png' routed.
+File './web/img/items/4.png' send.
+Request '/img/items/5.gif' routed.
+File './web/img/items/5.gif' send.
+Request '/img/items/6.png' routed.
+File './web/img/items/6.png' send.
+Request '/img/items/7.jpg' routed.
+File './web/img/items/7.jpg' send.
+Request '/img/items/8.png' routed.
+File './web/img/items/8.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/screen/main.css' routed.
+Request '/css/screen/basket_icon.css' routed.
+Request '/css/screen/account_area.css' routed.
+File './web/css/screen/main.css' send.
+File './web/css/screen/account_area.css' send.
+File './web/css/screen/basket_icon.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Request '/' routed.
+Start page handled.
+Request '/css/screen/main.css' routed.
+File './web/css/screen/main.css' send.
+Request '/css/screen/account_area.css' routed.
+File './web/css/screen/account_area.css' send.
+Request '/css/screen/basket_icon.css' routed.
+File './web/css/screen/basket_icon.css' send.
+Request '/javascript/base.js' routed.
+File './web/javascript/base.js' send.
+Request '/javascript/shop_item.js' routed.
+File './web/javascript/shop_item.js' send.
+Request '/javascript/local_storage.js' routed.
+File './web/javascript/local_storage.js' send.
+Request '/javascript/index.js' routed.
+File './web/javascript/index.js' send.
+Request '/javascript/account_block.js' routed.
+File './web/javascript/account_block.js' send.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+Request '/img/account_icon.png' routed.
+File './web/img/account_icon.png' send.
+Request '/img/items/10.png' routed.
+File './web/img/items/10.png' send.
+Request '/img/basket.png' routed.
+File './web/img/basket.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Request '/item' routed.
+Item data sended.
+Request '/item' routed.
+Item data sended.
+Request '/item' routed.
+Item data sended.
+Request '/img/items/1.jpg' routed.
+File './web/img/items/1.jpg' send.
+Request '/img/items/2.jpg' routed.
+File './web/img/items/2.jpg' send.
+Request '/img/items/3.png' routed.
+File './web/img/items/3.png' send.
+Request '/img/items/4.png' routed.
+File './web/img/items/4.png' send.
+Request '/img/items/5.gif' routed.
+File './web/img/items/5.gif' send.
+Request '/img/items/6.png' routed.
+File './web/img/items/6.png' send.
+Request '/img/items/7.jpg' routed.
+File './web/img/items/7.jpg' send.
+Request '/img/items/8.png' routed.
+File './web/img/items/8.png' send.
+Request '/' routed.
+Start page handled.
+Request '/css/screen/main.css' routed.
+File './web/css/screen/main.css' send.
+Request '/css/screen/account_area.css' routed.
+File './web/css/screen/account_area.css' send.
+Request '/css/screen/basket_icon.css' routed.
+File './web/css/screen/basket_icon.css' send.
+Request '/javascript/base.js' routed.
+File './web/javascript/base.js' send.
+Request '/javascript/shop_item.js' routed.
+File './web/javascript/shop_item.js' send.
+Request '/javascript/local_storage.js' routed.
+File './web/javascript/local_storage.js' send.
+Request '/javascript/index.js' routed.
+File './web/javascript/index.js' send.
+Request '/javascript/account_block.js' routed.
+File './web/javascript/account_block.js' send.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+Request '/img/account_icon.png' routed.
+File './web/img/account_icon.png' send.
+Request '/img/items/10.png' routed.
+File './web/img/items/10.png' send.
+Request '/img/basket.png' routed.
+File './web/img/basket.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/img/items/1.jpg' routed.
+File './web/img/items/1.jpg' send.
+Request '/img/items/3.png' routed.
+File './web/img/items/3.png' send.
+Request '/item' routed.
+Request '/img/items/2.jpg' routed.
+File './web/img/items/2.jpg' send.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Server running at http://127.0.0.1:8080/
+Request '/' routed.
+Start page handled.
+Request '/css/screen/main.css' routed.
+File './web/css/screen/main.css' send.
+Request '/css/screen/account_area.css' routed.
+File './web/css/screen/account_area.css' send.
+Request '/css/screen/basket_icon.css' routed.
+File './web/css/screen/basket_icon.css' send.
+Request '/javascript/base.js' routed.
+File './web/javascript/base.js' send.
+Request '/javascript/shop_item.js' routed.
+File './web/javascript/shop_item.js' send.
+Request '/javascript/local_storage.js' routed.
+File './web/javascript/local_storage.js' send.
+Request '/javascript/index.js' routed.
+File './web/javascript/index.js' send.
+Request '/javascript/account_block.js' routed.
+File './web/javascript/account_block.js' send.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+Request '/img/account_icon.png' routed.
+File './web/img/account_icon.png' send.
+Request '/img/items/10.png' routed.
+File './web/img/items/10.png' send.
+Request '/img/basket.png' routed.
+File './web/img/basket.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Request '/item' routed.
+Item data sended.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Item data sended.
+Item data sended.
+Item data sended.
+Request '/img/items/1.jpg' routed.
+File './web/img/items/1.jpg' send.
+Request '/img/items/2.jpg' routed.
+File './web/img/items/2.jpg' send.
+Request '/img/items/3.png' routed.
+File './web/img/items/3.png' send.
+Request '/img/items/4.png' routed.
+File './web/img/items/4.png' send.
+Request '/img/items/5.gif' routed.
+File './web/img/items/5.gif' send.
+Request '/img/items/6.png' routed.
+File './web/img/items/6.png' send.
+Request '/img/items/7.jpg' routed.
+File './web/img/items/7.jpg' send.
+Request '/img/items/8.png' routed.
+File './web/img/items/8.png' send.
+Request '/css/mobile/mobile.css' routed.
+Request '/css/screen/main.css' routed.
+Request '/css/screen/account_area.css' routed.
+File './web/css/mobile/mobile.css' send.
+File './web/css/screen/main.css' send.
+File './web/css/screen/account_area.css' send.
+Request '/css/screen/basket_icon.css' routed.
+File './web/css/screen/basket_icon.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Server running at http://127.0.0.1:8080/
+Request '/' routed.
+Start page handled.
+Request '/css/screen/main.css' routed.
+Request '/css/screen/account_area.css' routed.
+Request '/css/screen/basket_icon.css' routed.
+Request '/javascript/base.js' routed.
+Request '/javascript/shop_item.js' routed.
+Request '/javascript/local_storage.js' routed.
+File './web/css/screen/main.css' send.
+File './web/css/screen/account_area.css' send.
+File './web/css/screen/basket_icon.css' send.
+Request '/javascript/index.js' routed.
+Request '/javascript/account_block.js' routed.
+File './web/javascript/account_block.js' send.
+File './web/javascript/index.js' send.
+File './web/javascript/local_storage.js' send.
+File './web/javascript/base.js' send.
+File './web/javascript/shop_item.js' send.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+Request '/img/account_icon.png' routed.
+File './web/img/account_icon.png' send.
+Request '/img/items/10.png' routed.
+File './web/img/items/10.png' send.
+Request '/img/basket.png' routed.
+File './web/img/basket.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Item data sended.
+Item data sended.
+Item data sended.
+Item data sended.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Request '/img/items/4.png' routed.
+Request '/img/items/5.gif' routed.
+Request '/img/items/6.png' routed.
+Request '/img/items/2.jpg' routed.
+Request '/img/items/1.jpg' routed.
+Request '/img/items/3.png' routed.
+File './web/img/items/2.jpg' send.
+File './web/img/items/6.png' send.
+Request '/img/items/7.jpg' routed.
+Request '/img/items/8.png' routed.
+File './web/img/items/5.gif' send.
+File './web/img/items/3.png' send.
+File './web/img/items/8.png' send.
+File './web/img/items/1.jpg' send.
+File './web/img/items/4.png' send.
+File './web/img/items/7.jpg' send.
+Request '/shop_item.html' routed.
+File './web/shop_item.html' send.
+Request '/css/screen/main.css' routed.
+File './web/css/screen/main.css' send.
+Request '/css/screen/shop_item.css' routed.
+Request '/javascript/base.js' routed.
+File './web/javascript/base.js' send.
+Request '/javascript/local_storage.js' routed.
+File './web/javascript/local_storage.js' send.
+Request '/javascript/comments.js' routed.
+File './web/javascript/comments.js' send.
+File './web/css/screen/shop_item.css' send.
+Request '/javascript/shop_item_page.js' routed.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+File './web/javascript/shop_item_page.js' send.
+Request '/img/awful.png' routed.
+File './web/img/awful.png' send.
+Request '/img/nice.png' routed.
+File './web/img/nice.png' send.
+Request '/img/good.png' routed.
+File './web/img/good.png' send.
+Request '/img/awesome.png' routed.
+File './web/img/awesome.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/mobile/shop_item.css' routed.
+File './web/css/mobile/shop_item.css' send.
+Request '/css/print/print.css' routed.
+Request '/css/print/shop_item.css' routed.
+File './web/css/print/print.css' send.
+File './web/css/print/shop_item.css' send.
+Request '/item' routed.
+Request '/comments' routed.
+Item page sended.
+Request '/img/items/4.png' routed.
+File './web/img/items/4.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/mobile/shop_item.css' routed.
+Request '/css/screen/main.css' routed.
+Request '/css/screen/shop_item.css' routed.
+File './web/css/mobile/shop_item.css' send.
+File './web/css/screen/main.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/screen/shop_item.css' send.
+File './web/css/print/print.css' send.
+Request '/css/print/shop_item.css' routed.
+File './web/css/print/shop_item.css' send.
+Server running at http://127.0.0.1:8080/
+Request '/shop_item.html' routed.
+File './web/shop_item.html' send.
+Request '/css/screen/main.css' routed.
+Request '/css/screen/shop_item.css' routed.
+File './web/css/screen/main.css' send.
+Request '/javascript/base.js' routed.
+Request '/javascript/local_storage.js' routed.
+File './web/css/screen/shop_item.css' send.
+Request '/javascript/comments.js' routed.
+File './web/javascript/base.js' send.
+File './web/javascript/local_storage.js' send.
+File './web/javascript/comments.js' send.
+Request '/javascript/shop_item_page.js' routed.
+File './web/javascript/shop_item_page.js' send.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+Request '/img/awful.png' routed.
+File './web/img/awful.png' send.
+Request '/img/nice.png' routed.
+File './web/img/nice.png' send.
+Request '/img/good.png' routed.
+File './web/img/good.png' send.
+Request '/img/awesome.png' routed.
+File './web/img/awesome.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/mobile/shop_item.css' routed.
+File './web/css/mobile/shop_item.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Request '/css/print/shop_item.css' routed.
+File './web/css/print/shop_item.css' send.
+Request '/item' routed.
+Request '/comments' routed.
+Item page sended.
+Request '/img/items/4.png' routed.
+File './web/img/items/4.png' send.
+Request '/' routed.
+Start page handled.
+Request '/css/screen/main.css' routed.
+File './web/css/screen/main.css' send.
+Request '/css/screen/account_area.css' routed.
+File './web/css/screen/account_area.css' send.
+Request '/css/screen/basket_icon.css' routed.
+File './web/css/screen/basket_icon.css' send.
+Request '/javascript/base.js' routed.
+File './web/javascript/base.js' send.
+Request '/javascript/shop_item.js' routed.
+File './web/javascript/shop_item.js' send.
+Request '/javascript/local_storage.js' routed.
+File './web/javascript/local_storage.js' send.
+Request '/javascript/index.js' routed.
+File './web/javascript/index.js' send.
+Request '/javascript/account_block.js' routed.
+File './web/javascript/account_block.js' send.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+File './web/img/account_icon.png' send.
+Request '/img/account_icon.png' routed.
+Request '/img/items/10.png' routed.
+File './web/img/items/10.png' send.
+Request '/img/basket.png' routed.
+File './web/img/basket.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Request '/item' routed.
+Item data sended.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Request '/item' routed.
+Item data sended.
+Request '/item' routed.
+Item data sended.
+Request '/item' routed.
+Item data sended.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Request '/img/items/1.jpg' routed.
+File './web/img/items/1.jpg' send.
+Request '/img/items/2.jpg' routed.
+File './web/img/items/2.jpg' send.
+Request '/img/items/3.png' routed.
+File './web/img/items/3.png' send.
+Request '/img/items/4.png' routed.
+File './web/img/items/4.png' send.
+Request '/img/items/5.gif' routed.
+File './web/img/items/5.gif' send.
+Request '/img/items/6.png' routed.
+File './web/img/items/6.png' send.
+Request '/img/items/7.jpg' routed.
+File './web/img/items/7.jpg' send.
+Request '/img/items/8.png' routed.
+File './web/img/items/8.png' send.
+Request '/shop_item.html' routed.
+File './web/shop_item.html' send.
+Request '/css/screen/main.css' routed.
+Request '/css/screen/shop_item.css' routed.
+Request '/javascript/base.js' routed.
+Request '/javascript/local_storage.js' routed.
+File './web/css/screen/shop_item.css' send.
+File './web/javascript/base.js' send.
+File './web/css/screen/main.css' send.
+File './web/javascript/local_storage.js' send.
+Request '/javascript/comments.js' routed.
+File './web/javascript/comments.js' send.
+Request '/javascript/shop_item_page.js' routed.
+File './web/javascript/shop_item_page.js' send.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+Request '/img/awful.png' routed.
+File './web/img/awful.png' send.
+Request '/img/nice.png' routed.
+File './web/img/nice.png' send.
+Request '/img/good.png' routed.
+File './web/img/good.png' send.
+Request '/img/awesome.png' routed.
+File './web/img/awesome.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/mobile/shop_item.css' routed.
+File './web/css/mobile/shop_item.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Request '/css/print/shop_item.css' routed.
+File './web/css/print/shop_item.css' send.
+Request '/item' routed.
+Request '/comments' routed.
+Item page sended.
+Request '/img/items/1.jpg' routed.
+File './web/img/items/1.jpg' send.
+No request handler found for /undefined
+Request '/undefined' routed.
+Server running at http://127.0.0.1:8080/
+Request '/' routed.
+Start page handled.
+Request '/css/screen/main.css' routed.
+File './web/css/screen/main.css' send.
+Request '/css/screen/account_area.css' routed.
+File './web/css/screen/account_area.css' send.
+Request '/css/screen/basket_icon.css' routed.
+File './web/css/screen/basket_icon.css' send.
+Request '/javascript/base.js' routed.
+File './web/javascript/base.js' send.
+Request '/javascript/shop_item.js' routed.
+Request '/javascript/local_storage.js' routed.
+Request '/javascript/index.js' routed.
+Request '/javascript/account_block.js' routed.
+File './web/javascript/shop_item.js' send.
+File './web/javascript/local_storage.js' send.
+File './web/javascript/index.js' send.
+File './web/javascript/account_block.js' send.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+Request '/img/account_icon.png' routed.
+File './web/img/account_icon.png' send.
+Request '/img/items/10.png' routed.
+File './web/img/items/10.png' send.
+Request '/img/basket.png' routed.
+File './web/img/basket.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Item data sended.
+Item data sended.
+Item data sended.
+Item data sended.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Request '/img/items/2.jpg' routed.
+File './web/img/items/2.jpg' send.
+Request '/img/items/1.jpg' routed.
+File './web/img/items/1.jpg' send.
+Request '/img/items/3.png' routed.
+File './web/img/items/3.png' send.
+Request '/img/items/4.png' routed.
+File './web/img/items/4.png' send.
+Request '/img/items/5.gif' routed.
+Request '/img/items/6.png' routed.
+File './web/img/items/5.gif' send.
+Request '/img/items/7.jpg' routed.
+File './web/img/items/6.png' send.
+File './web/img/items/7.jpg' send.
+Request '/img/items/8.png' routed.
+File './web/img/items/8.png' send.
+Request '/shop_item.html' routed.
+File './web/shop_item.html' send.
+Request '/css/screen/main.css' routed.
+File './web/css/screen/main.css' send.
+Request '/css/screen/shop_item.css' routed.
+File './web/css/screen/shop_item.css' send.
+Request '/javascript/base.js' routed.
+File './web/javascript/base.js' send.
+Request '/javascript/local_storage.js' routed.
+File './web/javascript/local_storage.js' send.
+Request '/javascript/comments.js' routed.
+File './web/javascript/comments.js' send.
+Request '/javascript/shop_item_page.js' routed.
+File './web/javascript/shop_item_page.js' send.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+Request '/img/awful.png' routed.
+File './web/img/awful.png' send.
+Request '/img/nice.png' routed.
+File './web/img/nice.png' send.
+Request '/img/good.png' routed.
+File './web/img/good.png' send.
+Request '/img/awesome.png' routed.
+File './web/img/awesome.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/mobile/shop_item.css' routed.
+File './web/css/mobile/shop_item.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Request '/css/print/shop_item.css' routed.
+File './web/css/print/shop_item.css' send.
+Request '/item' routed.
+Request '/comments' routed.
+Item page sended.
+Request '/img/items/2.jpg' routed.
+File './web/img/items/2.jpg' send.
+Request '/index.html' routed.
+File './web/index.html' send.
+Request '/css/screen/main.css' routed.
+Request '/css/screen/basket_icon.css' routed.
+Request '/css/screen/account_area.css' routed.
+Request '/javascript/base.js' routed.
+Request '/javascript/shop_item.js' routed.
+File './web/css/screen/main.css' send.
+Request '/javascript/local_storage.js' routed.
+File './web/css/screen/basket_icon.css' send.
+File './web/css/screen/account_area.css' send.
+File './web/javascript/base.js' send.
+File './web/javascript/shop_item.js' send.
+Request '/javascript/index.js' routed.
+File './web/javascript/local_storage.js' send.
+File './web/javascript/index.js' send.
+Request '/javascript/account_block.js' routed.
+File './web/javascript/account_block.js' send.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+Request '/img/account_icon.png' routed.
+File './web/img/account_icon.png' send.
+Request '/img/items/10.png' routed.
+File './web/img/items/10.png' send.
+Request '/img/basket.png' routed.
+File './web/img/basket.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Request '/item' routed.
+Item data sended.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Request '/item' routed.
+Item data sended.
+Request '/item' routed.
+Item data sended.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Request '/item' routed.
+Item data sended.
+Request '/img/items/1.jpg' routed.
+File './web/img/items/1.jpg' send.
+Request '/img/items/2.jpg' routed.
+File './web/img/items/2.jpg' send.
+Request '/img/items/3.png' routed.
+File './web/img/items/3.png' send.
+Request '/img/items/4.png' routed.
+File './web/img/items/4.png' send.
+Request '/img/items/5.gif' routed.
+Request '/img/items/6.png' routed.
+File './web/img/items/5.gif' send.
+Request '/img/items/7.jpg' routed.
+File './web/img/items/6.png' send.
+File './web/img/items/7.jpg' send.
+Request '/img/items/8.png' routed.
+File './web/img/items/8.png' send.
+Request '/shop_item.html' routed.
+File './web/shop_item.html' send.
+Request '/css/screen/main.css' routed.
+File './web/css/screen/main.css' send.
+Request '/css/screen/shop_item.css' routed.
+File './web/css/screen/shop_item.css' send.
+Request '/javascript/base.js' routed.
+File './web/javascript/base.js' send.
+Request '/javascript/local_storage.js' routed.
+File './web/javascript/local_storage.js' send.
+Request '/javascript/comments.js' routed.
+File './web/javascript/comments.js' send.
+Request '/javascript/shop_item_page.js' routed.
+File './web/javascript/shop_item_page.js' send.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+Request '/img/awful.png' routed.
+File './web/img/awful.png' send.
+Request '/img/nice.png' routed.
+File './web/img/nice.png' send.
+Request '/img/good.png' routed.
+File './web/img/good.png' send.
+Request '/img/awesome.png' routed.
+File './web/img/awesome.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/mobile/shop_item.css' routed.
+File './web/css/mobile/shop_item.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Request '/css/print/shop_item.css' routed.
+File './web/css/print/shop_item.css' send.
+Request '/item' routed.
+Item page sended.
+Request '/comments' routed.
+Request '/img/items/1.jpg' routed.
+File './web/img/items/1.jpg' send.
+Request '/img/account_icon.png' routed.
+File './web/img/account_icon.png' send.
+Request '/css/mobile/mobile.css' routed.
+Request '/css/mobile/shop_item.css' routed.
+Request '/css/screen/main.css' routed.
+Request '/css/screen/shop_item.css' routed.
+File './web/css/mobile/mobile.css' send.
+File './web/css/mobile/shop_item.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/screen/main.css' send.
+File './web/css/screen/shop_item.css' send.
+File './web/css/print/print.css' send.
+Request '/css/print/shop_item.css' routed.
+File './web/css/print/shop_item.css' send.
+Request '/index.html' routed.
+File './web/index.html' send.
+Request '/css/screen/main.css' routed.
+File './web/css/screen/main.css' send.
+Request '/css/screen/account_area.css' routed.
+Request '/css/screen/basket_icon.css' routed.
+Request '/javascript/base.js' routed.
+File './web/css/screen/account_area.css' send.
+File './web/css/screen/basket_icon.css' send.
+File './web/javascript/base.js' send.
+Request '/javascript/shop_item.js' routed.
+File './web/javascript/shop_item.js' send.
+Request '/javascript/local_storage.js' routed.
+Request '/javascript/index.js' routed.
+Request '/javascript/account_block.js' routed.
+File './web/javascript/local_storage.js' send.
+File './web/javascript/index.js' send.
+File './web/javascript/account_block.js' send.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+Request '/img/account_icon.png' routed.
+File './web/img/account_icon.png' send.
+Request '/img/items/10.png' routed.
+File './web/img/items/10.png' send.
+Request '/img/basket.png' routed.
+File './web/img/basket.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Request '/item' routed.
+Item data sended.
+Request '/item' routed.
+Item data sended.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Request '/img/items/1.jpg' routed.
+File './web/img/items/1.jpg' send.
+Request '/img/items/2.jpg' routed.
+File './web/img/items/2.jpg' send.
+Request '/img/items/3.png' routed.
+File './web/img/items/3.png' send.
+Request '/img/items/4.png' routed.
+File './web/img/items/4.png' send.
+Request '/img/items/5.gif' routed.
+Request '/img/items/6.png' routed.
+File './web/img/items/5.gif' send.
+File './web/img/items/6.png' send.
+Request '/img/items/7.jpg' routed.
+Request '/img/items/8.png' routed.
+File './web/img/items/7.jpg' send.
+File './web/img/items/8.png' send.
+Request '/login.html' routed.
+File './web/login.html' send.
+Request '/css/screen/secondary_page.css' routed.
+Request '/javascript/base.js' routed.
+File './web/javascript/base.js' send.
+Request '/javascript/local_storage.js' routed.
+File './web/javascript/local_storage.js' send.
+Request '/javascript/login.js' routed.
+File './web/css/screen/secondary_page.css' send.
+File './web/javascript/login.js' send.
+Server running at http://127.0.0.1:8080/
+Request '/' routed.
+Start page handled.
+Request '/css/screen/main.css' routed.
+File './web/css/screen/main.css' send.
+Request '/css/screen/account_area.css' routed.
+Request '/css/screen/basket_icon.css' routed.
+File './web/css/screen/account_area.css' send.
+Request '/javascript/base.js' routed.
+File './web/css/screen/basket_icon.css' send.
+Request '/javascript/shop_item.js' routed.
+File './web/javascript/base.js' send.
+File './web/javascript/shop_item.js' send.
+Request '/javascript/local_storage.js' routed.
+File './web/javascript/local_storage.js' send.
+Request '/javascript/index.js' routed.
+File './web/javascript/index.js' send.
+Request '/javascript/account_block.js' routed.
+File './web/javascript/account_block.js' send.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+Request '/img/account_icon.png' routed.
+File './web/img/account_icon.png' send.
+Request '/img/items/10.png' routed.
+File './web/img/items/10.png' send.
+Request '/img/basket.png' routed.
+File './web/img/basket.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Item data sended.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Item data sended.
+Item data sended.
+Item data sended.
+Request '/img/items/1.jpg' routed.
+File './web/img/items/1.jpg' send.
+Request '/img/items/2.jpg' routed.
+File './web/img/items/2.jpg' send.
+Request '/img/items/3.png' routed.
+File './web/img/items/3.png' send.
+Request '/img/items/4.png' routed.
+Request '/img/items/6.png' routed.
+Request '/img/items/7.jpg' routed.
+Request '/img/items/8.png' routed.
+Request '/img/items/5.gif' routed.
+File './web/img/items/4.png' send.
+File './web/img/items/6.png' send.
+File './web/img/items/7.jpg' send.
+File './web/img/items/8.png' send.
+File './web/img/items/5.gif' send.
+Request '/login.html' routed.
+File './web/login.html' send.
+Request '/css/screen/secondary_page.css' routed.
+File './web/css/screen/secondary_page.css' send.
+Request '/javascript/base.js' routed.
+File './web/javascript/base.js' send.
+Request '/javascript/local_storage.js' routed.
+File './web/javascript/local_storage.js' send.
+Request '/javascript/login.js' routed.
+File './web/javascript/login.js' send.
+No request handler found for /AccountServlet
+Request '/AccountServlet' routed.
+No request handler found for /AccountServlet
+Request '/AccountServlet' routed.
+No request handler found for /AccountServlet
+Request '/AccountServlet' routed.
+No request handler found for /AccountServlet
+Request '/AccountServlet' routed.
+No request handler found for /AccountServlet
+Request '/AccountServlet' routed.
+Request '/css/screen/secondary_page.css' routed.
+File './web/css/screen/secondary_page.css' send.
+No request handler found for /AccountServlet
+Request '/AccountServlet' routed.
+No request handler found for /AccountServlet
+Request '/AccountServlet' routed.
+No request handler found for /AccountServlet
+Request '/AccountServlet' routed.
+No request handler found for /AccountServlet
+Request '/AccountServlet' routed.
+No request handler found for /AccountServlet
+Request '/AccountServlet' routed.
+No request handler found for /AccountServlet
+Request '/AccountServlet' routed.
+No request handler found for /AccountServlet
+Request '/AccountServlet' routed.
+No request handler found for /AccountServlet
+Request '/AccountServlet' routed.
+No request handler found for /AccountServlet
+Request '/AccountServlet' routed.
+No request handler found for /AccountServlet
+Request '/AccountServlet' routed.
+Server running at http://127.0.0.1:8080/
+Request '/' routed.
+Start page handled.
+Request '/css/screen/main.css' routed.
+File './web/css/screen/main.css' send.
+Request '/css/screen/account_area.css' routed.
+File './web/css/screen/account_area.css' send.
+Request '/css/screen/basket_icon.css' routed.
+File './web/css/screen/basket_icon.css' send.
+Request '/javascript/base.js' routed.
+File './web/javascript/base.js' send.
+Request '/javascript/shop_item.js' routed.
+File './web/javascript/shop_item.js' send.
+Request '/javascript/local_storage.js' routed.
+File './web/javascript/local_storage.js' send.
+Request '/javascript/index.js' routed.
+File './web/javascript/index.js' send.
+Request '/javascript/account_block.js' routed.
+File './web/javascript/account_block.js' send.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+Request '/img/account_icon.png' routed.
+File './web/img/account_icon.png' send.
+Request '/img/items/10.png' routed.
+File './web/img/items/10.png' send.
+Request '/img/basket.png' routed.
+File './web/img/basket.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Item data sended.
+Item data sended.
+Item data sended.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Item data sended.
+Request '/img/items/1.jpg' routed.
+File './web/img/items/1.jpg' send.
+Request '/img/items/2.jpg' routed.
+File './web/img/items/2.jpg' send.
+Request '/img/items/3.png' routed.
+File './web/img/items/3.png' send.
+Request '/img/items/4.png' routed.
+Request '/img/items/5.gif' routed.
+File './web/img/items/4.png' send.
+File './web/img/items/5.gif' send.
+Request '/img/items/6.png' routed.
+Request '/img/items/7.jpg' routed.
+File './web/img/items/6.png' send.
+Request '/img/items/8.png' routed.
+File './web/img/items/7.jpg' send.
+File './web/img/items/8.png' send.
+Request '/login.html' routed.
+File './web/login.html' send.
+Request '/css/screen/secondary_page.css' routed.
+File './web/css/screen/secondary_page.css' send.
+Request '/javascript/base.js' routed.
+File './web/javascript/base.js' send.
+Request '/javascript/local_storage.js' routed.
+File './web/javascript/local_storage.js' send.
+Request '/javascript/login.js' routed.
+File './web/javascript/login.js' send.
+Server running at http://127.0.0.1:8080/
+Request '/login.html' routed.
+File './web/login.html' send.
+Request '/css/screen/secondary_page.css' routed.
+Request '/javascript/base.js' routed.
+File './web/css/screen/secondary_page.css' send.
+Request '/javascript/local_storage.js' routed.
+File './web/javascript/base.js' send.
+Request '/javascript/login.js' routed.
+File './web/javascript/local_storage.js' send.
+File './web/javascript/login.js' send.
+Request '/' routed.
+Start page handled.
+Request '/css/screen/main.css' routed.
+Request '/css/screen/account_area.css' routed.
+File './web/css/screen/main.css' send.
+File './web/css/screen/account_area.css' send.
+Request '/css/screen/basket_icon.css' routed.
+Request '/javascript/base.js' routed.
+File './web/css/screen/basket_icon.css' send.
+File './web/javascript/base.js' send.
+Request '/javascript/shop_item.js' routed.
+File './web/javascript/shop_item.js' send.
+Request '/javascript/local_storage.js' routed.
+File './web/javascript/local_storage.js' send.
+Request '/javascript/index.js' routed.
+Request '/javascript/account_block.js' routed.
+File './web/javascript/index.js' send.
+File './web/javascript/account_block.js' send.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+Request '/img/account_icon.png' routed.
+File './web/img/account_icon.png' send.
+Request '/img/items/10.png' routed.
+File './web/img/items/10.png' send.
+Request '/img/basket.png' routed.
+File './web/img/basket.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Item data sended.
+Item data sended.
+Item data sended.
+Item data sended.
+Request '/item' routed.
+Item data sended.
+Request '/item' routed.
+Item data sended.
+Request '/img/items/1.jpg' routed.
+File './web/img/items/1.jpg' send.
+Request '/img/items/3.png' routed.
+File './web/img/items/3.png' send.
+Request '/img/items/4.png' routed.
+File './web/img/items/4.png' send.
+Request '/img/items/5.gif' routed.
+File './web/img/items/5.gif' send.
+Request '/img/items/6.png' routed.
+File './web/img/items/6.png' send.
+Request '/img/items/2.jpg' routed.
+File './web/img/items/2.jpg' send.
+Request '/img/items/7.jpg' routed.
+File './web/img/items/7.jpg' send.
+Request '/img/items/8.png' routed.
+File './web/img/items/8.png' send.
+Request '/login.html' routed.
+File './web/login.html' send.
+Request '/css/screen/secondary_page.css' routed.
+File './web/css/screen/secondary_page.css' send.
+Request '/javascript/base.js' routed.
+File './web/javascript/base.js' send.
+Request '/javascript/local_storage.js' routed.
+File './web/javascript/local_storage.js' send.
+Request '/javascript/login.js' routed.
+File './web/javascript/login.js' send.
+Server running at http://127.0.0.1:8080/
+Request '/' routed.
+Start page handled.
+Request '/css/screen/main.css' routed.
+File './web/css/screen/main.css' send.
+Request '/css/screen/account_area.css' routed.
+File './web/css/screen/account_area.css' send.
+Request '/css/screen/basket_icon.css' routed.
+File './web/css/screen/basket_icon.css' send.
+Request '/javascript/base.js' routed.
+Request '/javascript/shop_item.js' routed.
+File './web/javascript/base.js' send.
+File './web/javascript/shop_item.js' send.
+Request '/javascript/local_storage.js' routed.
+File './web/javascript/local_storage.js' send.
+Request '/javascript/index.js' routed.
+File './web/javascript/index.js' send.
+Request '/javascript/account_block.js' routed.
+File './web/javascript/account_block.js' send.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+Request '/img/account_icon.png' routed.
+File './web/img/account_icon.png' send.
+Request '/img/items/10.png' routed.
+File './web/img/items/10.png' send.
+Request '/img/basket.png' routed.
+File './web/img/basket.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Item data sended.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Item data sended.
+Request '/img/items/1.jpg' routed.
+File './web/img/items/1.jpg' send.
+Request '/img/items/2.jpg' routed.
+File './web/img/items/2.jpg' send.
+Request '/img/items/3.png' routed.
+File './web/img/items/3.png' send.
+Request '/img/items/4.png' routed.
+Request '/img/items/5.gif' routed.
+Request '/img/items/6.png' routed.
+Request '/img/items/7.jpg' routed.
+Request '/img/items/8.png' routed.
+File './web/img/items/4.png' send.
+File './web/img/items/6.png' send.
+File './web/img/items/8.png' send.
+File './web/img/items/5.gif' send.
+File './web/img/items/7.jpg' send.
+Request '/login.html' routed.
+File './web/login.html' send.
+Request '/css/screen/secondary_page.css' routed.
+File './web/css/screen/secondary_page.css' send.
+Request '/javascript/base.js' routed.
+File './web/javascript/base.js' send.
+Request '/javascript/local_storage.js' routed.
+File './web/javascript/local_storage.js' send.
+Request '/javascript/login.js' routed.
+File './web/javascript/login.js' send.
+Request '/account' routed.
+undefined
+Request '/css/screen/secondary_page.css' routed.
+File './web/css/screen/secondary_page.css' send.
+Request '/account' routed.
+undefined
+Request '/account' routed.
+undefined
+Request '/account' routed.
+undefined
+Request '/account' routed.
+undefined
+Request '/account' routed.
+undefined
+Request '/account' routed.
+undefined
+Request '/account' routed.
+undefined
+Request '/account' routed.
+undefined
+Request '/account' routed.
+undefined
+Request '/account' routed.
+undefined
+Request '/account' routed.
+undefined
+Server running at http://127.0.0.1:8080/
+Request '/' routed.
+Start page handled.
+Request '/css/screen/main.css' routed.
+Request '/css/screen/account_area.css' routed.
+Request '/css/screen/basket_icon.css' routed.
+File './web/css/screen/main.css' send.
+Request '/javascript/base.js' routed.
+File './web/css/screen/account_area.css' send.
+File './web/css/screen/basket_icon.css' send.
+Request '/javascript/shop_item.js' routed.
+File './web/javascript/base.js' send.
+File './web/javascript/shop_item.js' send.
+Request '/javascript/local_storage.js' routed.
+File './web/javascript/local_storage.js' send.
+Request '/javascript/index.js' routed.
+File './web/javascript/index.js' send.
+Request '/javascript/account_block.js' routed.
+File './web/javascript/account_block.js' send.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+Request '/img/account_icon.png' routed.
+File './web/img/account_icon.png' send.
+Request '/img/items/10.png' routed.
+File './web/img/items/10.png' send.
+Request '/img/basket.png' routed.
+File './web/img/basket.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Item data sended.
+Item data sended.
+Request '/item' routed.
+Item data sended.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Item data sended.
+Request '/img/items/1.jpg' routed.
+File './web/img/items/1.jpg' send.
+Request '/img/items/2.jpg' routed.
+File './web/img/items/2.jpg' send.
+Request '/img/items/3.png' routed.
+Request '/img/items/4.png' routed.
+File './web/img/items/3.png' send.
+File './web/img/items/4.png' send.
+Request '/img/items/5.gif' routed.
+File './web/img/items/5.gif' send.
+Request '/img/items/6.png' routed.
+File './web/img/items/6.png' send.
+Request '/img/items/7.jpg' routed.
+File './web/img/items/7.jpg' send.
+Request '/img/items/8.png' routed.
+File './web/img/items/8.png' send.
+Request '/login.html' routed.
+File './web/login.html' send.
+Request '/css/screen/secondary_page.css' routed.
+File './web/css/screen/secondary_page.css' send.
+Request '/javascript/base.js' routed.
+File './web/javascript/base.js' send.
+Request '/javascript/local_storage.js' routed.
+Request '/javascript/login.js' routed.
+File './web/javascript/local_storage.js' send.
+File './web/javascript/login.js' send.
+LOGIN!
+Request '/account' routed.
+undefined
+LOGIN!
+Request '/account' routed.
+undefined
+Server running at http://127.0.0.1:8080/
+Request '/' routed.
+Start page handled.
+Request '/css/screen/main.css' routed.
+Request '/css/screen/account_area.css' routed.
+File './web/css/screen/main.css' send.
+File './web/css/screen/account_area.css' send.
+Request '/css/screen/basket_icon.css' routed.
+File './web/css/screen/basket_icon.css' send.
+Request '/javascript/base.js' routed.
+File './web/javascript/base.js' send.
+Request '/javascript/shop_item.js' routed.
+File './web/javascript/shop_item.js' send.
+Request '/javascript/local_storage.js' routed.
+File './web/javascript/local_storage.js' send.
+Request '/javascript/index.js' routed.
+File './web/javascript/index.js' send.
+Request '/javascript/account_block.js' routed.
+File './web/javascript/account_block.js' send.
+Request '/img/logo11.png' routed.
+File './web/img/logo11.png' send.
+Request '/img/account_icon.png' routed.
+File './web/img/account_icon.png' send.
+Request '/img/items/10.png' routed.
+File './web/img/items/10.png' send.
+Request '/img/basket.png' routed.
+File './web/img/basket.png' send.
+Request '/css/mobile/mobile.css' routed.
+File './web/css/mobile/mobile.css' send.
+Request '/css/print/print.css' routed.
+File './web/css/print/print.css' send.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Item data sended.
+Item data sended.
+Item data sended.
+Item data sended.
+Request '/item' routed.
+Request '/item' routed.
+Item data sended.
+Item data sended.
+Request '/img/items/1.jpg' routed.
+File './web/img/items/1.jpg' send.
+Request '/img/items/2.jpg' routed.
+File './web/img/items/2.jpg' send.
+Request '/img/items/3.png' routed.
+File './web/img/items/3.png' send.
+Request '/img/items/6.png' routed.
+File './web/img/items/6.png' send.
+Request '/img/items/4.png' routed.
+File './web/img/items/4.png' send.
+Request '/img/items/5.gif' routed.
+File './web/img/items/5.gif' send.
+Request '/img/items/7.jpg' routed.
+File './web/img/items/7.jpg' send.
+Request '/img/items/8.png' routed.
+File './web/img/items/8.png' send.
+Request '/login.html' routed.
+File './web/login.html' send.
+Request '/css/screen/secondary_page.css' routed.
+File './web/css/screen/secondary_page.css' send.
+Request '/javascript/base.js' routed.
+Request '/javascript/local_storage.js' routed.
+Request '/javascript/login.js' routed.
+File './web/javascript/base.js' send.
+File './web/javascript/login.js' send.
+File './web/javascript/local_storage.js' send.
+Request '/account' routed.
+SQLITE_RANGE: bind or column index out of range
+Request '/css/screen/secondary_page.css' routed.
+File './web/css/screen/secondary_page.css' send.
+Request '/account' routed.
+SQLITE_RANGE: bind or column index out of range
+Request '/account' routed.
+SQLITE_RANGE: bind or column index out of range
+Request '/account' routed.
+SQLITE_RANGE: bind or column index out of range
+Request '/account' routed.
+SQLITE_RANGE: bind or column index out of range
+Request '/account' routed.
+SQLITE_RANGE: bind or column index out of range
+Request '/account' routed.
+SQLITE_RANGE: bind or column index out of range
+Request '/account' routed.
+SQLITE_RANGE: bind or column index out of range
+Request '/account' routed.
+SQLITE_RANGE: bind or column index out of range
+Request '/account' routed.
+SQLITE_RANGE: bind or column index out of range
+Request '/account' routed.
+SQLITE_RANGE: bind or column index out of range
+Request '/account' routed.
+SQLITE_RANGE: bind or column index out of range
+Request '/account' routed.
+SQLITE_RANGE: bind or column index out of range
+Request '/account' routed.
+SQLITE_RANGE: bind or column index out of range
+Request '/account' routed.
+SQLITE_RANGE: bind or column index out of range
+Request '/account' routed.
+SQLITE_RANGE: bind or column index out of range
+Server running at http://127.0.0.1:8080/ function Date() { [native code] } 
+Request '/' routed. function Date() { [native code] } 
+Start page handled. function Date() { [native code] } 
+Request '/css/screen/main.css' routed. function Date() { [native code] } 
+File './web/css/screen/main.css' send. function Date() { [native code] } 
+Request '/css/screen/account_area.css' routed. function Date() { [native code] } 
+File './web/css/screen/account_area.css' send. function Date() { [native code] } 
+Request '/css/screen/basket_icon.css' routed. function Date() { [native code] } 
+Request '/javascript/base.js' routed. function Date() { [native code] } 
+File './web/css/screen/basket_icon.css' send. function Date() { [native code] } 
+File './web/javascript/base.js' send. function Date() { [native code] } 
+Request '/javascript/shop_item.js' routed. function Date() { [native code] } 
+Request '/javascript/local_storage.js' routed. function Date() { [native code] } 
+File './web/javascript/shop_item.js' send. function Date() { [native code] } 
+File './web/javascript/local_storage.js' send. function Date() { [native code] } 
+Request '/javascript/index.js' routed. function Date() { [native code] } 
+File './web/javascript/index.js' send. function Date() { [native code] } 
+Request '/javascript/account_block.js' routed. function Date() { [native code] } 
+File './web/javascript/account_block.js' send. function Date() { [native code] } 
+Request '/img/logo11.png' routed. function Date() { [native code] } 
+File './web/img/logo11.png' send. function Date() { [native code] } 
+Request '/img/account_icon.png' routed. function Date() { [native code] } 
+File './web/img/account_icon.png' send. function Date() { [native code] } 
+Request '/img/items/10.png' routed. function Date() { [native code] } 
+File './web/img/items/10.png' send. function Date() { [native code] } 
+Request '/img/basket.png' routed. function Date() { [native code] } 
+File './web/img/basket.png' send. function Date() { [native code] } 
+Request '/css/mobile/mobile.css' routed. function Date() { [native code] } 
+File './web/css/mobile/mobile.css' send. function Date() { [native code] } 
+Request '/css/print/print.css' routed. function Date() { [native code] } 
+File './web/css/print/print.css' send. function Date() { [native code] } 
+Request '/item' routed. function Date() { [native code] } 
+Request '/item' routed. function Date() { [native code] } 
+Request '/item' routed. function Date() { [native code] } 
+Request '/item' routed. function Date() { [native code] } 
+Request '/item' routed. function Date() { [native code] } 
+Request '/item' routed. function Date() { [native code] } 
+Item data sended. function Date() { [native code] } 
+Item data sended. function Date() { [native code] } 
+Item data sended. function Date() { [native code] } 
+Item data sended. function Date() { [native code] } 
+Item data sended. function Date() { [native code] } 
+Item data sended. function Date() { [native code] } 
+Request '/item' routed. function Date() { [native code] } 
+Item data sended. function Date() { [native code] } 
+Request '/item' routed. function Date() { [native code] } 
+Item data sended. function Date() { [native code] } 
+Request '/img/items/1.jpg' routed. function Date() { [native code] } 
+File './web/img/items/1.jpg' send. function Date() { [native code] } 
+Request '/img/items/2.jpg' routed. function Date() { [native code] } 
+File './web/img/items/2.jpg' send. function Date() { [native code] } 
+Request '/img/items/3.png' routed. function Date() { [native code] } 
+File './web/img/items/3.png' send. function Date() { [native code] } 
+Request '/img/items/4.png' routed. function Date() { [native code] } 
+Request '/img/items/5.gif' routed. function Date() { [native code] } 
+File './web/img/items/4.png' send. function Date() { [native code] } 
+Request '/img/items/6.png' routed. function Date() { [native code] } 
+Request '/img/items/7.jpg' routed. function Date() { [native code] } 
+File './web/img/items/5.gif' send. function Date() { [native code] } 
+File './web/img/items/6.png' send. function Date() { [native code] } 
+File './web/img/items/7.jpg' send. function Date() { [native code] } 
+Request '/img/items/8.png' routed. function Date() { [native code] } 
+File './web/img/items/8.png' send. function Date() { [native code] } 
+Server running at http://127.0.0.1:8080/ Mon Feb 12 2018 10:04:36 GMT+0300 (Восточная Африка (зима)) 
+Request '/' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Start page handled. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/css/screen/main.css' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+File './web/css/screen/main.css' send. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/css/screen/account_area.css' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+File './web/css/screen/account_area.css' send. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/css/screen/basket_icon.css' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/javascript/base.js' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+File './web/css/screen/basket_icon.css' send. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+File './web/javascript/base.js' send. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/javascript/shop_item.js' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+File './web/javascript/shop_item.js' send. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/javascript/local_storage.js' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/javascript/index.js' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+File './web/javascript/local_storage.js' send. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/javascript/account_block.js' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+File './web/javascript/index.js' send. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+File './web/javascript/account_block.js' send. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/img/logo11.png' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+File './web/img/logo11.png' send. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/img/account_icon.png' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+File './web/img/account_icon.png' send. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/img/items/10.png' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+File './web/img/items/10.png' send. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/img/basket.png' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+File './web/img/basket.png' send. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/css/mobile/mobile.css' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+File './web/css/mobile/mobile.css' send. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/css/print/print.css' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+File './web/css/print/print.css' send. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/item' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/item' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/item' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/item' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/item' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Item data sended. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Item data sended. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/item' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Item data sended. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Item data sended. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Item data sended. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/item' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/item' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Item data sended. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Item data sended. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Item data sended. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/img/items/2.jpg' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+File './web/img/items/2.jpg' send. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/img/items/1.jpg' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+File './web/img/items/1.jpg' send. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/img/items/4.png' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+File './web/img/items/4.png' send. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/img/items/5.gif' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/img/items/3.png' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+File './web/img/items/5.gif' send. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+File './web/img/items/3.png' send. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/img/items/6.png' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+File './web/img/items/6.png' send. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/img/items/7.jpg' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+File './web/img/items/7.jpg' send. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Request '/img/items/8.png' routed. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+File './web/img/items/8.png' send. Mon Feb 12 2018 10:04:40 GMT+0300 (Восточная Африка (зима)) 
+Server running at http://127.0.0.1:8080/ 12 
+Request '/' routed. 12 
+Start page handled. 12 
+Request '/css/screen/main.css' routed. 12 
+File './web/css/screen/main.css' send. 12 
+Request '/css/screen/account_area.css' routed. 12 
+File './web/css/screen/account_area.css' send. 12 
+Request '/css/screen/basket_icon.css' routed. 12 
+File './web/css/screen/basket_icon.css' send. 12 
+Request '/javascript/base.js' routed. 12 
+File './web/javascript/base.js' send. 12 
+Request '/javascript/shop_item.js' routed. 12 
+File './web/javascript/shop_item.js' send. 12 
+Request '/javascript/local_storage.js' routed. 12 
+File './web/javascript/local_storage.js' send. 12 
+Request '/javascript/index.js' routed. 12 
+Request '/javascript/account_block.js' routed. 12 
+File './web/javascript/index.js' send. 12 
+File './web/javascript/account_block.js' send. 12 
+Request '/img/logo11.png' routed. 12 
+File './web/img/logo11.png' send. 12 
+Request '/img/account_icon.png' routed. 12 
+File './web/img/account_icon.png' send. 12 
+Request '/img/items/10.png' routed. 12 
+File './web/img/items/10.png' send. 12 
+Request '/img/basket.png' routed. 12 
+File './web/img/basket.png' send. 12 
+Request '/css/mobile/mobile.css' routed. 12 
+File './web/css/mobile/mobile.css' send. 12 
+Request '/css/print/print.css' routed. 12 
+File './web/css/print/print.css' send. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Item data sended. 12 
+Item data sended. 12 
+Request '/item' routed. 12 
+Item data sended. 12 
+Item data sended. 12 
+Item data sended. 12 
+Item data sended. 12 
+Request '/item' routed. 12 
+Item data sended. 12 
+Item data sended. 12 
+Request '/img/items/1.jpg' routed. 12 
+File './web/img/items/1.jpg' send. 12 
+Request '/img/items/2.jpg' routed. 12 
+File './web/img/items/2.jpg' send. 12 
+Request '/img/items/3.png' routed. 12 
+File './web/img/items/3.png' send. 12 
+Request '/img/items/4.png' routed. 12 
+File './web/img/items/4.png' send. 12 
+Request '/img/items/6.png' routed. 12 
+File './web/img/items/6.png' send. 12 
+Request '/img/items/5.gif' routed. 12 
+File './web/img/items/5.gif' send. 12 
+Request '/img/items/7.jpg' routed. 12 
+File './web/img/items/7.jpg' send. 12 
+Request '/img/items/8.png' routed. 12 
+File './web/img/items/8.png' send. 12 
+Request '/item' routed. 12 
+Item data sended. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Item data sended. 12 
+Item data sended. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Request '/img/items/9.jpg' routed. 12 
+Request '/img/items/buttonsmall.png' routed. 12 
+Request '/img/items/prohozhii.jpg' routed. 12 
+File './web/img/items/9.jpg' send. 12 
+File './web/img/items/prohozhii.jpg' send. 12 
+File './web/img/items/buttonsmall.png' send. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Item data sended. 12 
+Item data sended. 12 
+Request '/item' routed. 12 
+Item data sended. 12 
+Request '/item' routed. 12 
+Item data sended. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Item data sended. 12 
+Item data sended. 12 
+Request '/item' routed. 12 
+Item data sended. 12 
+Request '/item' routed. 12 
+Item data sended. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Item data sended. 12 
+Request '/item' routed. 12 
+Item data sended. 12 
+Item data sended. 12 
+Request '/item' routed. 12 
+Server running at http://127.0.0.1:8080/ undefined 
+Request '/' routed. undefined 
+Start page handled. undefined 
+Request '/css/screen/main.css' routed. undefined 
+File './web/css/screen/main.css' send. undefined 
+Request '/css/screen/account_area.css' routed. undefined 
+File './web/css/screen/account_area.css' send. undefined 
+Request '/css/screen/basket_icon.css' routed. undefined 
+File './web/css/screen/basket_icon.css' send. undefined 
+Request '/javascript/base.js' routed. undefined 
+File './web/javascript/base.js' send. undefined 
+Request '/javascript/shop_item.js' routed. undefined 
+File './web/javascript/shop_item.js' send. undefined 
+Request '/javascript/local_storage.js' routed. undefined 
+File './web/javascript/local_storage.js' send. undefined 
+Request '/javascript/index.js' routed. undefined 
+File './web/javascript/index.js' send. undefined 
+Request '/javascript/account_block.js' routed. undefined 
+File './web/javascript/account_block.js' send. undefined 
+Request '/img/logo11.png' routed. undefined 
+File './web/img/logo11.png' send. undefined 
+Request '/img/account_icon.png' routed. undefined 
+File './web/img/account_icon.png' send. undefined 
+Request '/img/items/10.png' routed. undefined 
+File './web/img/items/10.png' send. undefined 
+Request '/img/basket.png' routed. undefined 
+File './web/img/basket.png' send. undefined 
+Request '/css/mobile/mobile.css' routed. undefined 
+File './web/css/mobile/mobile.css' send. undefined 
+Request '/css/print/print.css' routed. undefined 
+File './web/css/print/print.css' send. undefined 
+Request '/item' routed. undefined 
+Request '/item' routed. undefined 
+Request '/item' routed. undefined 
+Request '/item' routed. undefined 
+Request '/item' routed. undefined 
+Request '/item' routed. undefined 
+Item data sended. undefined 
+Item data sended. undefined 
+Item data sended. undefined 
+Request '/item' routed. undefined 
+Item data sended. undefined 
+Item data sended. undefined 
+Item data sended. undefined 
+Item data sended. undefined 
+Request '/item' routed. undefined 
+Item data sended. undefined 
+Request '/img/items/1.jpg' routed. undefined 
+File './web/img/items/1.jpg' send. undefined 
+Request '/img/items/2.jpg' routed. undefined 
+File './web/img/items/2.jpg' send. undefined 
+Request '/img/items/3.png' routed. undefined 
+File './web/img/items/3.png' send. undefined 
+Request '/img/items/4.png' routed. undefined 
+File './web/img/items/4.png' send. undefined 
+Request '/img/items/5.gif' routed. undefined 
+Request '/img/items/6.png' routed. undefined 
+File './web/img/items/5.gif' send. undefined 
+File './web/img/items/6.png' send. undefined 
+Request '/img/items/7.jpg' routed. undefined 
+File './web/img/items/7.jpg' send. undefined 
+Request '/img/items/8.png' routed. undefined 
+File './web/img/items/8.png' send. undefined 
+Request '/item' routed. undefined 
+Request '/item' routed. undefined 
+Request '/item' routed. undefined 
+Item data sended. undefined 
+Item data sended. undefined 
+Item data sended. undefined 
+Request '/item' routed. undefined 
+Request '/item' routed. undefined 
+Request '/item' routed. undefined 
+Request '/item' routed. undefined 
+Request '/item' routed. undefined 
+Request '/img/items/9.jpg' routed. undefined 
+File './web/img/items/9.jpg' send. undefined 
+Request '/img/items/buttonsmall.png' routed. undefined 
+File './web/img/items/buttonsmall.png' send. undefined 
+Request '/img/items/prohozhii.jpg' routed. undefined 
+File './web/img/items/prohozhii.jpg' send. undefined 
+Request '/item' routed. undefined 
+Request '/item' routed. undefined 
+Item data sended. undefined 
+Item data sended. undefined 
+Request '/item' routed. undefined 
+Item data sended. undefined 
+Request '/item' routed. undefined 
+Item data sended. undefined 
+Request '/item' routed. undefined 
+Item data sended. undefined 
+Request '/item' routed. undefined 
+Item data sended. undefined 
+Request '/item' routed. undefined 
+Item data sended. undefined 
+Request '/item' routed. undefined 
+Item data sended. undefined 
+Request '/item' routed. undefined 
+Request '/item' routed. undefined 
+Item data sended. undefined 
+Item data sended. undefined 
+Request '/item' routed. undefined 
+Request '/item' routed. undefined 
+Item data sended. undefined 
+Request '/item' routed. undefined 
+Request '/item' routed. undefined 
+Request '/item' routed. undefined 
+Request '/item' routed. undefined 
+Server running at http://127.0.0.1:8080/ 12 
+Request '/' routed. 12 
+Start page handled. 12 
+Request '/css/screen/main.css' routed. 12 
+Request '/css/screen/account_area.css' routed. 12 
+File './web/css/screen/main.css' send. 12 
+Request '/css/screen/basket_icon.css' routed. 12 
+File './web/css/screen/account_area.css' send. 12 
+File './web/css/screen/basket_icon.css' send. 12 
+Request '/javascript/base.js' routed. 12 
+File './web/javascript/base.js' send. 12 
+Request '/javascript/shop_item.js' routed. 12 
+File './web/javascript/shop_item.js' send. 12 
+Request '/javascript/local_storage.js' routed. 12 
+File './web/javascript/local_storage.js' send. 12 
+Request '/javascript/index.js' routed. 12 
+File './web/javascript/index.js' send. 12 
+Request '/javascript/account_block.js' routed. 12 
+File './web/javascript/account_block.js' send. 12 
+Request '/img/logo11.png' routed. 12 
+File './web/img/logo11.png' send. 12 
+Request '/img/account_icon.png' routed. 12 
+File './web/img/account_icon.png' send. 12 
+Request '/img/items/10.png' routed. 12 
+File './web/img/items/10.png' send. 12 
+Request '/img/basket.png' routed. 12 
+File './web/img/basket.png' send. 12 
+Request '/css/mobile/mobile.css' routed. 12 
+File './web/css/mobile/mobile.css' send. 12 
+Request '/css/print/print.css' routed. 12 
+File './web/css/print/print.css' send. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Item data sended. 12 
+Item data sended. 12 
+Item data sended. 12 
+Item data sended. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Item data sended. 12 
+Item data sended. 12 
+Item data sended. 12 
+Item data sended. 12 
+Request '/img/items/2.jpg' routed. 12 
+File './web/img/items/2.jpg' send. 12 
+Request '/img/items/1.jpg' routed. 12 
+File './web/img/items/1.jpg' send. 12 
+Request '/img/items/3.png' routed. 12 
+File './web/img/items/3.png' send. 12 
+Request '/img/items/4.png' routed. 12 
+File './web/img/items/4.png' send. 12 
+Request '/img/items/5.gif' routed. 12 
+Request '/img/items/6.png' routed. 12 
+File './web/img/items/5.gif' send. 12 
+Request '/img/items/7.jpg' routed. 12 
+File './web/img/items/6.png' send. 12 
+File './web/img/items/7.jpg' send. 12 
+Request '/img/items/8.png' routed. 12 
+File './web/img/items/8.png' send. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Item data sended. 12 
+Item data sended. 12 
+Request '/item' routed. 12 
+Item data sended. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Request '/img/items/9.jpg' routed. 12 
+File './web/img/items/9.jpg' send. 12 
+Request '/img/items/buttonsmall.png' routed. 12 
+File './web/img/items/buttonsmall.png' send. 12 
+Request '/img/items/prohozhii.jpg' routed. 12 
+File './web/img/items/prohozhii.jpg' send. 12 
+Request '/item' routed. 12 
+Item data sended. 12 
+Request '/item' routed. 12 
+Item data sended. 12 
+Request '/item' routed. 12 
+Request '/item' routed. 12 
+Item data sended. 12 
+Item data sended. 12 
+Server running at http://127.0.0.1:8080/ 1 
+Server running at http://127.0.0.1:8080/ 1 
+Server running at http://127.0.0.1:8080/ 1 
+Server running at http://127.0.0.1:8080/ 1 
+Request '/' routed. 1 
+Start page handled. 1 
+Request '/css/screen/main.css' routed. 1 
+File './web/css/screen/main.css' send. 1 
+Request '/css/screen/account_area.css' routed. 1 
+Request '/css/screen/basket_icon.css' routed. 1 
+File './web/css/screen/account_area.css' send. 1 
+Request '/javascript/base.js' routed. 1 
+File './web/css/screen/basket_icon.css' send. 1 
+File './web/javascript/base.js' send. 1 
+Request '/javascript/shop_item.js' routed. 1 
+Request '/javascript/local_storage.js' routed. 1 
+File './web/javascript/shop_item.js' send. 1 
+Request '/javascript/index.js' routed. 1 
+File './web/javascript/local_storage.js' send. 1 
+File './web/javascript/index.js' send. 1 
+Request '/javascript/account_block.js' routed. 1 
+File './web/javascript/account_block.js' send. 1 
+Request '/img/logo11.png' routed. 1 
+File './web/img/logo11.png' send. 1 
+Request '/img/account_icon.png' routed. 1 
+File './web/img/account_icon.png' send. 1 
+Request '/img/items/10.png' routed. 1 
+File './web/img/items/10.png' send. 1 
+Request '/img/basket.png' routed. 1 
+File './web/img/basket.png' send. 1 
+Request '/css/mobile/mobile.css' routed. 1 
+File './web/css/mobile/mobile.css' send. 1 
+Request '/css/print/print.css' routed. 1 
+File './web/css/print/print.css' send. 1 
+Request '/item' routed. 1 
+Request '/item' routed. 1 
+Request '/item' routed. 1 
+Request '/item' routed. 1 
+Request '/item' routed. 1 
+Item data sended. 1 
+Request '/item' routed. 1 
+Item data sended. 1 
+Item data sended. 1 
+Request '/item' routed. 1 
+Item data sended. 1 
+Request '/item' routed. 1 
+Item data sended. 1 
+Item data sended. 1 
+Item data sended. 1 
+Item data sended. 1 
+Request '/img/items/1.jpg' routed. 1 
+File './web/img/items/1.jpg' send. 1 
+Request '/img/items/3.png' routed. 1 
+File './web/img/items/3.png' send. 1 
+Request '/img/items/2.jpg' routed. 1 
+File './web/img/items/2.jpg' send. 1 
+Request '/img/items/4.png' routed. 1 
+File './web/img/items/4.png' send. 1 
+Request '/img/items/5.gif' routed. 1 
+Request '/img/items/6.png' routed. 1 
+File './web/img/items/6.png' send. 1 
+File './web/img/items/5.gif' send. 1 
+Request '/img/items/7.jpg' routed. 1 
+File './web/img/items/7.jpg' send. 1 
+Request '/img/items/8.png' routed. 1 
+File './web/img/items/8.png' send. 1 
+Server running at http://127.0.0.1:8080/ 1 
+Server running at http://127.0.0.1:8080/ 1 
+Request '/' routed. 1 
+Start page handled. 1 
+Request '/css/screen/main.css' routed. 1 
+Request '/css/screen/account_area.css' routed. 1 
+Request '/css/screen/basket_icon.css' routed. 1 
+File './web/css/screen/main.css' send. 1 
+File './web/css/screen/account_area.css' send. 1 
+File './web/css/screen/basket_icon.css' send. 1 
+Request '/javascript/base.js' routed. 1 
+File './web/javascript/base.js' send. 1 
+Request '/javascript/shop_item.js' routed. 1 
+Request '/javascript/local_storage.js' routed. 1 
+Request '/javascript/index.js' routed. 1 
+Request '/javascript/account_block.js' routed. 1 
+File './web/javascript/shop_item.js' send. 1 
+File './web/javascript/local_storage.js' send. 1 
+File './web/javascript/index.js' send. 1 
+File './web/javascript/account_block.js' send. 1 
+Request '/img/logo11.png' routed. 1 
+File './web/img/logo11.png' send. 1 
+Request '/img/account_icon.png' routed. 1 
+File './web/img/account_icon.png' send. 1 
+Request '/img/items/10.png' routed. 1 
+File './web/img/items/10.png' send. 1 
+Request '/img/basket.png' routed. 1 
+File './web/img/basket.png' send. 1 
+Request '/css/mobile/mobile.css' routed. 1 
+File './web/css/mobile/mobile.css' send. 1 
+Request '/css/print/print.css' routed. 1 
+File './web/css/print/print.css' send. 1 
+Request '/item' routed. 1 
+Request '/item' routed. 1 
+Request '/item' routed. 1 
+Request '/item' routed. 1 
+Request '/item' routed. 1 
+Request '/item' routed. 1 
+Item data sended. 1 
+Item data sended. 1 
+Item data sended. 1 
+Request '/item' routed. 1 
+Item data sended. 1 
+Item data sended. 1 
+Request '/item' routed. 1 
+Item data sended. 1 
+Item data sended. 1 
+Item data sended. 1 
+Request '/img/items/1.jpg' routed. 1 
+File './web/img/items/1.jpg' send. 1 
+Request '/img/items/2.jpg' routed. 1 
+File './web/img/items/2.jpg' send. 1 
+Request '/img/items/3.png' routed. 1 
+File './web/img/items/3.png' send. 1 
+Request '/img/items/4.png' routed. 1 
+File './web/img/items/4.png' send. 1 
+Request '/img/items/6.png' routed. 1 
+File './web/img/items/6.png' send. 1 
+Request '/img/items/5.gif' routed. 1 
+File './web/img/items/5.gif' send. 1 
+Request '/img/items/7.jpg' routed. 1 
+File './web/img/items/7.jpg' send. 1 
+Request '/img/items/8.png' routed. 1 
+File './web/img/items/8.png' send. 1 
+Request '/item' routed. 1 
+Item data sended. 1 
+Request '/item' routed. 1 
+Item data sended. 1 
+Request '/item' routed. 1 
+Request '/item' routed. 1 
+Item data sended. 1 
+Request '/img/items/9.jpg' routed. 1 
+File './web/img/items/9.jpg' send. 1 
+Request '/img/items/buttonsmall.png' routed. 1 
+File './web/img/items/buttonsmall.png' send. 1 
+Request '/img/items/prohozhii.jpg' routed. 1 
+File './web/img/items/prohozhii.jpg' send. 1 
+Request '/item' routed. 1 
+Request '/item' routed. 1 
+Request '/item' routed. 1 
+Item data sended. 1 
+Request '/item' routed. 1 
+Item data sended. 1 
+Item data sended. 1 
+Item data sended. 1 
+Request '/item' routed. 1 
+Request '/item' routed. 1 
+Request '/item' routed. 1 
+Item data sended. 1 
+Request '/item' routed. 1 
+Item data sended. 1 
+Item data sended. 1 
+Item data sended. 1 
+Request '/item' routed. 1 
+Request '/item' routed. 1 
+Item data sended. 1 
+Request '/item' routed. 1 
+Item data sended. 1 
+Item data sended. 1 
+Request '/item' routed. 1 
+Server running at http://127.0.0.1:8080/ NaN 
+Server running at http://127.0.0.1:8080/ NaN 
+Server running at http://127.0.0.1:8080/ NaN 
+Server running at http://127.0.0.1:8080/ NaN 
+Server running at http://127.0.0.1:8080/ undefined 
+Server running at http://127.0.0.1:8080/ Mon, 12 Feb 2018 07:14:59 GMT 
+Server running at http://127.0.0.1:8080/ Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Start page handled. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/css/screen/main.css' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/css/screen/main.css' send. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/css/screen/account_area.css' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/css/screen/basket_icon.css' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/css/screen/account_area.css' send. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/css/screen/basket_icon.css' send. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/javascript/base.js' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/javascript/shop_item.js' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/javascript/base.js' send. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/javascript/shop_item.js' send. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/javascript/local_storage.js' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/javascript/local_storage.js' send. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/javascript/index.js' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/javascript/account_block.js' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/javascript/index.js' send. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/javascript/account_block.js' send. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/img/logo11.png' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/img/logo11.png' send. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/img/account_icon.png' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/img/account_icon.png' send. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/img/items/10.png' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/img/items/10.png' send. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/img/basket.png' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/img/basket.png' send. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/css/mobile/mobile.css' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/css/mobile/mobile.css' send. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/css/print/print.css' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/css/print/print.css' send. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Item data sended. Mon, 12 Feb 2018 07:15:44 GMT 
+Item data sended. Mon, 12 Feb 2018 07:15:44 GMT 
+Item data sended. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Item data sended. Mon, 12 Feb 2018 07:15:44 GMT 
+Item data sended. Mon, 12 Feb 2018 07:15:44 GMT 
+Item data sended. Mon, 12 Feb 2018 07:15:44 GMT 
+Item data sended. Mon, 12 Feb 2018 07:15:44 GMT 
+Item data sended. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/img/items/1.jpg' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/img/items/1.jpg' send. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/img/items/2.jpg' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/img/items/2.jpg' send. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/img/items/3.png' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/img/items/3.png' send. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/img/items/4.png' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/img/items/4.png' send. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/img/items/5.gif' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/img/items/5.gif' send. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/img/items/6.png' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/img/items/6.png' send. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/img/items/7.jpg' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/img/items/7.jpg' send. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/img/items/8.png' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/img/items/8.png' send. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Item data sended. Mon, 12 Feb 2018 07:15:44 GMT 
+Item data sended. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Item data sended. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/img/items/9.jpg' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/img/items/9.jpg' send. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/img/items/buttonsmall.png' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/img/items/buttonsmall.png' send. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/img/items/prohozhii.jpg' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+File './web/img/items/prohozhii.jpg' send. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Item data sended. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Item data sended. Mon, 12 Feb 2018 07:15:44 GMT 
+Item data sended. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Item data sended. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Item data sended. Mon, 12 Feb 2018 07:15:44 GMT 
+Item data sended. Mon, 12 Feb 2018 07:15:44 GMT 
+Item data sended. Mon, 12 Feb 2018 07:15:44 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:15:44 GMT 
+Item data sended. Mon, 12 Feb 2018 07:15:44 GMT 
+Server running at http://127.0.0.1:8080/ Mon, 12 Feb 2018 07:16:57 GMT 
+Request '/' routed. Mon, 12 Feb 2018 07:16:59 GMT 
+Start page handled. Mon, 12 Feb 2018 07:16:59 GMT 
+Request '/css/screen/main.css' routed. Mon, 12 Feb 2018 07:16:59 GMT 
+Request '/css/screen/account_area.css' routed. Mon, 12 Feb 2018 07:16:59 GMT 
+File './web/css/screen/main.css' send. Mon, 12 Feb 2018 07:16:59 GMT 
+Request '/css/screen/basket_icon.css' routed. Mon, 12 Feb 2018 07:16:59 GMT 
+File './web/css/screen/account_area.css' send. Mon, 12 Feb 2018 07:16:59 GMT 
+File './web/css/screen/basket_icon.css' send. Mon, 12 Feb 2018 07:16:59 GMT 
+Request '/javascript/base.js' routed. Mon, 12 Feb 2018 07:16:59 GMT 
+File './web/javascript/base.js' send. Mon, 12 Feb 2018 07:16:59 GMT 
+Request '/javascript/shop_item.js' routed. Mon, 12 Feb 2018 07:16:59 GMT 
+File './web/javascript/shop_item.js' send. Mon, 12 Feb 2018 07:16:59 GMT 
+Request '/javascript/local_storage.js' routed. Mon, 12 Feb 2018 07:16:59 GMT 
+Request '/javascript/index.js' routed. Mon, 12 Feb 2018 07:16:59 GMT 
+File './web/javascript/index.js' send. Mon, 12 Feb 2018 07:16:59 GMT 
+File './web/javascript/local_storage.js' send. Mon, 12 Feb 2018 07:16:59 GMT 
+Request '/javascript/account_block.js' routed. Mon, 12 Feb 2018 07:16:59 GMT 
+File './web/javascript/account_block.js' send. Mon, 12 Feb 2018 07:16:59 GMT 
+Request '/img/logo11.png' routed. Mon, 12 Feb 2018 07:16:59 GMT 
+File './web/img/logo11.png' send. Mon, 12 Feb 2018 07:16:59 GMT 
+Request '/img/account_icon.png' routed. Mon, 12 Feb 2018 07:16:59 GMT 
+File './web/img/account_icon.png' send. Mon, 12 Feb 2018 07:16:59 GMT 
+Request '/img/items/10.png' routed. Mon, 12 Feb 2018 07:16:59 GMT 
+File './web/img/items/10.png' send. Mon, 12 Feb 2018 07:16:59 GMT 
+Request '/img/basket.png' routed. Mon, 12 Feb 2018 07:16:59 GMT 
+File './web/img/basket.png' send. Mon, 12 Feb 2018 07:16:59 GMT 
+Request '/css/mobile/mobile.css' routed. Mon, 12 Feb 2018 07:16:59 GMT 
+File './web/css/mobile/mobile.css' send. Mon, 12 Feb 2018 07:16:59 GMT 
+Request '/css/print/print.css' routed. Mon, 12 Feb 2018 07:16:59 GMT 
+File './web/css/print/print.css' send. Mon, 12 Feb 2018 07:16:59 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:16:59 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:16:59 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:17:00 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:17:00 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:17:00 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:17:00 GMT 
+Item data sended. Mon, 12 Feb 2018 07:17:00 GMT 
+Item data sended. Mon, 12 Feb 2018 07:17:00 GMT 
+Item data sended. Mon, 12 Feb 2018 07:17:00 GMT 
+Item data sended. Mon, 12 Feb 2018 07:17:00 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:17:00 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:17:00 GMT 
+Item data sended. Mon, 12 Feb 2018 07:17:00 GMT 
+Item data sended. Mon, 12 Feb 2018 07:17:00 GMT 
+Item data sended. Mon, 12 Feb 2018 07:17:00 GMT 
+Item data sended. Mon, 12 Feb 2018 07:17:00 GMT 
+Request '/img/items/2.jpg' routed. Mon, 12 Feb 2018 07:17:00 GMT 
+File './web/img/items/2.jpg' send. Mon, 12 Feb 2018 07:17:00 GMT 
+Request '/img/items/1.jpg' routed. Mon, 12 Feb 2018 07:17:00 GMT 
+File './web/img/items/1.jpg' send. Mon, 12 Feb 2018 07:17:00 GMT 
+Request '/img/items/4.png' routed. Mon, 12 Feb 2018 07:17:00 GMT 
+File './web/img/items/4.png' send. Mon, 12 Feb 2018 07:17:00 GMT 
+Request '/img/items/3.png' routed. Mon, 12 Feb 2018 07:17:00 GMT 
+File './web/img/items/3.png' send. Mon, 12 Feb 2018 07:17:00 GMT 
+Request '/img/items/5.gif' routed. Mon, 12 Feb 2018 07:17:00 GMT 
+File './web/img/items/5.gif' send. Mon, 12 Feb 2018 07:17:00 GMT 
+Request '/img/items/6.png' routed. Mon, 12 Feb 2018 07:17:00 GMT 
+File './web/img/items/6.png' send. Mon, 12 Feb 2018 07:17:00 GMT 
+Request '/img/items/7.jpg' routed. Mon, 12 Feb 2018 07:17:00 GMT 
+File './web/img/items/7.jpg' send. Mon, 12 Feb 2018 07:17:00 GMT 
+Request '/img/items/8.png' routed. Mon, 12 Feb 2018 07:17:00 GMT 
+File './web/img/items/8.png' send. Mon, 12 Feb 2018 07:17:00 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:17:01 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:17:01 GMT 
+Item data sended. Mon, 12 Feb 2018 07:17:01 GMT 
+Item data sended. Mon, 12 Feb 2018 07:17:01 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:17:01 GMT 
+Item data sended. Mon, 12 Feb 2018 07:17:01 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:17:01 GMT 
+Request '/img/items/9.jpg' routed. Mon, 12 Feb 2018 07:17:01 GMT 
+File './web/img/items/9.jpg' send. Mon, 12 Feb 2018 07:17:01 GMT 
+Request '/img/items/buttonsmall.png' routed. Mon, 12 Feb 2018 07:17:01 GMT 
+File './web/img/items/buttonsmall.png' send. Mon, 12 Feb 2018 07:17:01 GMT 
+Request '/img/items/prohozhii.jpg' routed. Mon, 12 Feb 2018 07:17:01 GMT 
+File './web/img/items/prohozhii.jpg' send. Mon, 12 Feb 2018 07:17:01 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:17:01 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:17:01 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:17:01 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:17:01 GMT 
+Server running at http://127.0.0.1:8080/ Mon, 12 Feb 2018 07:18:35 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:35 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:35 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:35 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:35 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:35 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:35 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:35 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:35 GMT 
+Request '/' routed. Mon, 12 Feb 2018 07:18:36 GMT 
+Start page handled. Mon, 12 Feb 2018 07:18:36 GMT 
+Request '/css/screen/main.css' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/css/screen/account_area.css' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/css/screen/basket_icon.css' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/javascript/base.js' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/javascript/shop_item.js' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/javascript/local_storage.js' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+File './web/css/screen/main.css' send. Mon, 12 Feb 2018 07:18:37 GMT 
+File './web/css/screen/account_area.css' send. Mon, 12 Feb 2018 07:18:37 GMT 
+File './web/css/screen/basket_icon.css' send. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/javascript/index.js' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+File './web/javascript/base.js' send. Mon, 12 Feb 2018 07:18:37 GMT 
+File './web/javascript/local_storage.js' send. Mon, 12 Feb 2018 07:18:37 GMT 
+File './web/javascript/shop_item.js' send. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/javascript/account_block.js' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+File './web/javascript/index.js' send. Mon, 12 Feb 2018 07:18:37 GMT 
+File './web/javascript/account_block.js' send. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/img/logo11.png' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+File './web/img/logo11.png' send. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/img/account_icon.png' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+File './web/img/account_icon.png' send. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/img/items/10.png' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+File './web/img/items/10.png' send. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/img/basket.png' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+File './web/img/basket.png' send. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/css/mobile/mobile.css' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+File './web/css/mobile/mobile.css' send. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/css/print/print.css' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+File './web/css/print/print.css' send. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:37 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:37 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:37 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/img/items/1.jpg' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+File './web/img/items/1.jpg' send. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/img/items/2.jpg' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+File './web/img/items/2.jpg' send. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/img/items/3.png' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+File './web/img/items/3.png' send. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/img/items/4.png' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+File './web/img/items/4.png' send. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/img/items/5.gif' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+File './web/img/items/5.gif' send. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/img/items/6.png' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+File './web/img/items/6.png' send. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/img/items/7.jpg' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+File './web/img/items/7.jpg' send. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/img/items/8.png' routed. Mon, 12 Feb 2018 07:18:37 GMT 
+File './web/img/items/8.png' send. Mon, 12 Feb 2018 07:18:37 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:39 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/img/items/9.jpg' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+File './web/img/items/9.jpg' send. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/img/items/buttonsmall.png' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+File './web/img/items/buttonsmall.png' send. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/img/items/prohozhii.jpg' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+File './web/img/items/prohozhii.jpg' send. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:39 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:39 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:39 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:39 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:39 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:39 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:41 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:41 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:41 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:41 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:41 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:41 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:41 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:41 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:41 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:41 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:41 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:41 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:41 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:41 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:18:41 GMT 
+Item data sended. Mon, 12 Feb 2018 07:18:41 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:16 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:16 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:16 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:16 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:16 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:16 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:16 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:16 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:16 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:16 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:16 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:16 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:16 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:16 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:16 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:17 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:17 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:17 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:17 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:17 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:17 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:17 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:17 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:24 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:24 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:24 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:24 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:24 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:24 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:24 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:24 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:24 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:24 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:24 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:25 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:25 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:25 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:25 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:25 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:25 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:25 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:25 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:25 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:25 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:25 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:25 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:25 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:25 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:25 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:25 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:25 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:25 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:25 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:25 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:25 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:25 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:25 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:26 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:26 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:26 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:26 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:31 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:31 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:31 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:31 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:31 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:31 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:31 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:31 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:31 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:31 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:31 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:31 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:31 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:31 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:31 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:31 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:33 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:33 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:33 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:33 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:33 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:33 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:33 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:33 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:33 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:33 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:33 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:33 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:33 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:33 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:33 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:33 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:33 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:33 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:33 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:33 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:33 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:33 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:33 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:33 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:33 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:33 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:33 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:33 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:33 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:33 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:33 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:33 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:33 GMT 
+Item data sended. Mon, 12 Feb 2018 07:19:33 GMT 
+Request '/shop_item.html' routed. Mon, 12 Feb 2018 07:19:36 GMT 
+File './web/shop_item.html' send. Mon, 12 Feb 2018 07:19:36 GMT 
+Request '/css/screen/main.css' routed. Mon, 12 Feb 2018 07:19:36 GMT 
+File './web/css/screen/main.css' send. Mon, 12 Feb 2018 07:19:36 GMT 
+Request '/css/screen/shop_item.css' routed. Mon, 12 Feb 2018 07:19:36 GMT 
+Request '/javascript/base.js' routed. Mon, 12 Feb 2018 07:19:36 GMT 
+Request '/javascript/local_storage.js' routed. Mon, 12 Feb 2018 07:19:36 GMT 
+Request '/javascript/comments.js' routed. Mon, 12 Feb 2018 07:19:36 GMT 
+File './web/css/screen/shop_item.css' send. Mon, 12 Feb 2018 07:19:36 GMT 
+File './web/javascript/base.js' send. Mon, 12 Feb 2018 07:19:36 GMT 
+File './web/javascript/local_storage.js' send. Mon, 12 Feb 2018 07:19:36 GMT 
+File './web/javascript/comments.js' send. Mon, 12 Feb 2018 07:19:36 GMT 
+Request '/javascript/shop_item_page.js' routed. Mon, 12 Feb 2018 07:19:36 GMT 
+Request '/img/logo11.png' routed. Mon, 12 Feb 2018 07:19:36 GMT 
+File './web/javascript/shop_item_page.js' send. Mon, 12 Feb 2018 07:19:36 GMT 
+File './web/img/logo11.png' send. Mon, 12 Feb 2018 07:19:36 GMT 
+Request '/img/awful.png' routed. Mon, 12 Feb 2018 07:19:36 GMT 
+File './web/img/awful.png' send. Mon, 12 Feb 2018 07:19:36 GMT 
+Request '/img/nice.png' routed. Mon, 12 Feb 2018 07:19:36 GMT 
+File './web/img/nice.png' send. Mon, 12 Feb 2018 07:19:36 GMT 
+Request '/img/good.png' routed. Mon, 12 Feb 2018 07:19:36 GMT 
+File './web/img/good.png' send. Mon, 12 Feb 2018 07:19:36 GMT 
+Request '/img/awesome.png' routed. Mon, 12 Feb 2018 07:19:36 GMT 
+File './web/img/awesome.png' send. Mon, 12 Feb 2018 07:19:36 GMT 
+Request '/css/mobile/mobile.css' routed. Mon, 12 Feb 2018 07:19:36 GMT 
+File './web/css/mobile/mobile.css' send. Mon, 12 Feb 2018 07:19:36 GMT 
+Request '/css/mobile/shop_item.css' routed. Mon, 12 Feb 2018 07:19:36 GMT 
+File './web/css/mobile/shop_item.css' send. Mon, 12 Feb 2018 07:19:36 GMT 
+Request '/css/print/print.css' routed. Mon, 12 Feb 2018 07:19:36 GMT 
+File './web/css/print/print.css' send. Mon, 12 Feb 2018 07:19:36 GMT 
+Request '/css/print/shop_item.css' routed. Mon, 12 Feb 2018 07:19:36 GMT 
+File './web/css/print/shop_item.css' send. Mon, 12 Feb 2018 07:19:36 GMT 
+Request '/item' routed. Mon, 12 Feb 2018 07:19:36 GMT 
+Item page sended. Mon, 12 Feb 2018 07:19:36 GMT 
+Request '/comments' routed. Mon, 12 Feb 2018 07:19:36 GMT 
+Request '/img/items/8.png' routed. Mon, 12 Feb 2018 07:19:36 GMT 
+File './web/img/items/8.png' send. Mon, 12 Feb 2018 07:19:36 GMT 

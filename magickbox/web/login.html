@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Log In</title>
+    <link rel="stylesheet" type="text/css" media="screen and (min-device-width: 640px)"
+          href="css/screen/secondary_page.css" />
+    <script src="javascript/base.js"></script>
+    <script src="javascript/local_storage.js"></script>
+    <script src="javascript/login.js"></script>
+</head>
+<body>
+
+    <div id="wrapper">
+            <h1>ВХОД В АККАУНТ</h1>
+            <div class="hr"></div>
+
+        <form id="main-form" action="javascript:void(0);"
+              onsubmit="submitLogin(this); return false;" method="post">
+            <label for="login">Логин</label>
+            <input type="text" id="login" name="login" placeholder="Ваш логин...">
+
+            <label for="password">Пароль</label>
+            <input type="password" id="password" name="password" placeholder="Введите ваш пароль...">
+
+            <input type="submit" value="Подтвердить">
+            <a href="">Забыли пароль?</a>
+        </form>
+
+    </div>
+
+</body>
+</html>

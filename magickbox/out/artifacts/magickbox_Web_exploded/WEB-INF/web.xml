@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+
+
+    <servlet>
+        <servlet-name>ServletExample</servlet-name>
+        <servlet-class>Servlet.ServletExample</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ServletExample</servlet-name>
+        <url-pattern>/ServletExample</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ItemsServlet</servlet-name>
+        <servlet-class>Servlet.ItemsServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ItemsServlet</servlet-name>
+        <url-pattern>/ItemsServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>AccountServlet</servlet-name>
+        <servlet-class>Servlet.AccountServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AccountServlet</servlet-name>
+        <url-pattern>/AccountServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>CommentsServlet</servlet-name>
+        <servlet-class>Servlet.CommentsServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CommentsServlet</servlet-name>
+        <url-pattern>/CommentsServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>MailServlet</servlet-name>
+        <servlet-class>Servlet.MailServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>MailServlet</servlet-name>
+        <url-pattern>/MailServlet</url-pattern>
+    </servlet-mapping>
+
+</web-app>

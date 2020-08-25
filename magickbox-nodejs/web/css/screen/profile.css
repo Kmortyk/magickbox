@@ -1,0 +1,28 @@
+div#profile-avatar{
+    float: left;
+    width: 256px;
+    height: 256px;
+    border: 1px solid rgba(0,0,0,0.5);
+    margin: 40px 0 400px 150px;
+}
+
+div#profile-avatar>img{
+    width: 100%;
+    height: 100%;
+}
+
+div#profile-login, div#profile-email, div#profile-available-money{
+    float: left;
+    width: 677px;
+    font-size: 40px;
+    color: #4A148C;
+    margin: auto 0 20px 40px;
+}
+
+div#profile-login{
+    margin-top: 40px;
+}
+
+div#profile-available-money{
+    color: #004D40;
+}

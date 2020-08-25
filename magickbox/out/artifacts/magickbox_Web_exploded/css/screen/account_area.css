@@ -1,0 +1,49 @@
+div#account-area{
+    float: right;
+}
+
+div#account-block{
+    position: absolute;
+    right: 0;
+    width: 300px;
+    height: 150px;
+    background-color: #E1BEE7;
+    box-shadow: 0 0 1px #4A148C;
+    margin: 0 10px 0 0;
+    display: none;
+}
+
+div.account-block-button{
+    margin: 30px 0 0 50px;
+    height: 30px;
+    width: 160px;
+    box-shadow: 0 0 1px rgba(0,0,0,0.5);
+    text-align: center;
+}
+
+div.account-block-button>a{
+    height: 100%;
+    line-height: 30px;
+}
+
+img#account-icon{
+    position: relative;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin: 5px 20px 0 0;
+    box-shadow: 0 0 0 3px #4A148C;
+    cursor: pointer;
+    background-color: #F3E5F5;
+}
+
+div#account-block-login{
+    position: relative;
+    float:left;
+    height: 40px;
+    color: #F3E5F5;
+    margin: 5px 5px 0 0;
+    line-height: 40px;
+    font-size: 10px;
+    z-index: -1;
+}
